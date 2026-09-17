@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,Department,Monthly_Income,City,Customer_Type,Latitude,Longitude,Purchase_Amount,Feedback
+1630,Aarav Jadhav,36.0,Female,Finance,110390.0,Ahmednagar,New,17.536043,75.505984,62663.45,Good
+1789,Neha Sharma,32.0,Female,Operations,39371.0,Ahmednagar,Regular,20.073236,75.947597,31790.01,Excellent
+1685,Amit Joshi,53.0,Male,Marketing,38204.0,Kolhapur,New,20.852464,75.52174,91180.51,Average
+1517,Amit Deshmukh,33.0,Female,Data Analytics,50382.0,Nagpur,Premium,20.430885,77.862365,1535.62,Average
+1530,Rahul Pawar,58.0,Female,Operations,70249.0,Aurangabad,New,17.555342,73.493211,26105.84,Good
+1658,Meera Deshmukh,20.0,Female,IT,100830.0,Pune,New,20.350474,77.53826,48388.21,Good
+1553,Sahil Deshmukh,47.0,Male,Operations,97557.0,Nagpur,Premium,17.17557,74.113904,31360.94,Poor
+1532,Rahul More,53.0,Female,IT,32625.0,Nashik,New,21.410931,73.847627,60632.0,Excellent
+1322,Isha Pawar,47.0,Female,Marketing,17014.0,Thane,Regular,20.462318,76.650566,88415.84,Good
+1071,Nikhil Chavan,43.0,Female,Data Analytics,82193.0,Aurangabad,Regular,17.333136,77.205317,30187.15,Poor
+1838,Riya Chavan,42.0,Male,Finance,47396.0,Mumbai,Regular,21.108487,77.386472,86819.6,Good
+1454,Aarav Jadhav,46.0,Male,Operations,113326.0,Nagpur,New,17.700401,78.234176,12184.18,Poor
+1997,Sakshi Shinde,40.0,Female,Operations,27616.0,Kolhapur,New,20.125369,75.286457,33914.75,Very Good
+1669,Sneha Deshmukh,40.0,Male,Marketing,84041.0,Thane,Premium,20.278822,74.134987,53853.15,Excellent
+1248,Sahil Kulkarni,31.0,Female,Marketing,118033.0,Mumbai,Regular,17.80485,74.0679,83224.04,Good
+1614,Sahil Pawar,48.0,Male,HR,94349.0,Kolhapur,Premium,19.438294,76.091293,22839.98,Poor
+1845,Rahul Chavan,33.0,Female,Marketing,27315.0,Mumbai,Regular,17.088711,79.183369,7282.1,Very Good
+1705,Riya Kulkarni,34.0,Female,Sales,55352.0,Aurangabad,Premium,20.436079,76.346755,11047.98,Poor
+1299,Riya Joshi,29.0,Male,IT,82608.0,Mumbai,Regular,21.290164,73.931988,40505.77,Poor
+1102,Pooja Patil,53.0,Male,HR,115596.0,Ahmednagar,New,19.076846,76.759282,75430.34,Good
+1903,Karan Jadhav,38.0,Female,IT,59357.0,Mumbai,Regular,19.791272,79.932028,11875.48,Excellent
+1920,Anjali Deshmukh,22.0,Male,Operations,118358.0,Kolhapur,Regular,19.139509,73.017336,42580.57,Average
+1214,Karan Jadhav,57.0,Male,Finance,67095.0,Pune,Premium,18.423451,75.128952,35723.14,Very Good
+1238,Anjali Joshi,27.0,Female,HR,113017.0,Thane,Regular,16.900473,79.80167,67864.79,Very Good
+1596,Meera Deshmukh,31.0,Female,Marketing,98962.0,Aurangabad,Regular,17.659529,79.877791,4930.32,Very Good
+1282,Rahul Jadhav,36.0,Male,Sales,93311.0,Aurangabad,New,18.467471,74.477373,63302.06,Very Good
+1871,Riya Shinde,57.0,Female,Data Analytics,29801.0,Pune,Regular,19.682301,76.480344,87802.16,Average
+1287,Pooja More,23.0,Male,Finance,79797.0,Pune,Regular,16.61485,77.172658,51795.14,Average
+1923,Anjali Kulkarni,26.0,Female,Marketing,60523.0,Aurangabad,New,21.398931,78.443743,14602.92,Poor
+1888,Priya More,26.0,Female,Operations,117691.0,Thane,Regular,16.62402,79.158833,47114.63,Average
+1465,Riya Kulkarni,52.0,Female,Finance,60519.0,Mumbai,Regular,20.505502,76.201564,6548.94,Very Good
+1797,Priya Deshmukh,42.0,Female,IT,16075.0,Nashik,Premium,19.363829,74.200587,50466.62,Good
+1097,Karan Sharma,21.0,Female,Sales,68840.0,Nagpur,Regular,17.999545,76.638055,4394.74,Good
+1245,Anjali Pawar,59.0,Male,HR,43109.0,Nashik,New,21.092731,73.894276,12906.81,Average
+1890,Aarav Deshmukh,38.0,Female,Finance,77294.0,Aurangabad,Premium,20.357976,80.397757,81919.83,Very Good
+1077,Nikhil Sharma,40.0,Female,Finance,48850.0,Nagpur,Premium,16.876606,78.331191,40830.39,Excellent
+1902,Akash Sharma,33.0,Female,Marketing,96087.0,Kolhapur,Regular,16.59332,72.733774,74257.83,Excellent
+1210,Sahil Deshmukh,40.0,Male,IT,62925.0,Pune,Regular,16.773362,79.316069,67982.41,Average
+1260,Sahil More,21.0,Male,HR,15693.0,Thane,New,16.515379,75.478802,45140.88,Average
+1159,Anjali Kulkarni,55.0,Female,Finance,78192.0,Kolhapur,Regular,17.989896,75.924846,96419.76,Excellent
+1740,Amit More,32.0,Female,Marketing,72292.0,Mumbai,Premium,20.635018,79.871748,23117.83,Average
+1433,Sahil Patil,31.0,Female,Marketing,101956.0,Mumbai,Premium,19.641784,76.137309,81832.21,Poor
+1332,Sakshi Shinde,57.0,Female,IT,60625.0,Pune,Premium,20.857217,72.697746,95990.04,Very Good
+1957,Sahil Patil,54.0,Female,Data Analytics,35319.0,Ahmednagar,Regular,19.270376,79.029184,73446.1,Excellent
+1315,Karan Pawar,50.0,Female,Data Analytics,61285.0,Nagpur,Premium,18.656543,75.516664,27313.43,Poor
+1295,Aarav Shinde,29.0,Male,Sales,19405.0,Nashik,Premium,16.748915,79.559377,30185.89,Average
+1383,Vikas Jadhav,41.0,Female,Sales,106904.0,Mumbai,Premium,21.250253,80.035438,15047.81,Good
+1389,Kavya Jadhav,31.0,Female,Sales,82699.0,Nashik,Premium,16.772836,79.490002,70165.81,Good
+1576,Karan More,56.0,Female,IT,85574.0,Aurangabad,New,17.713148,75.923042,93890.54,Poor
+1880,Pooja Shinde,57.0,Male,Operations,91637.0,Nashik,New,21.001222,78.195536,10977.15,Very Good
+1443,Sahil Patil,48.0,Female,Operations,56342.0,Kolhapur,New,20.485167,75.611943,15790.4,Poor
+1722,Anjali Sharma,43.0,Female,Finance,79478.0,Nagpur,New,18.670361,79.579997,72394.46,Poor
+1060,Riya Shinde,38.0,Male,Sales,99837.0,Thane,premium,16.611182,80.374108,90893.61,Very Good
+1679,Meera Deshmukh,48.0,Female,Marketing,50705.0,Ahmednagar,New,17.526931,80.241806,20726.33,Excellent
+1371,Kavya Joshi,25.0,Male,Operations,75387.0,Mumbai,New,17.905003,74.320628,78380.33,Average
+1483,Unknown,35.0,Male,IT,28205.0,Thane,New,16.964737,73.264273,92898.42,Average
+1382,Isha Kulkarni,56.0,Male,Data Analytics,103724.0,Nashik,Premium,18.956374,75.930344,19621.65,Poor
+1055,Isha Pawar,44.0,Male,Operations,77759.0,Thane,Regular,18.612365,72.794368,44789.27,Good
+1024,Sneha More,28.0,Male,Operations,60224.0,Thane,Regular,16.778686,75.642329,78657.18,Very Good
+1031,Pooja Patil,40.0,Female,Data Analytics,33214.0,Aurangabad,New,16.80712,76.061414,35880.59,Poor
+1881,Riya Chavan,42.0,Male,Operations,30682.0,Nashik,Premium,18.194989,79.45887,48333.705,Very Good
+1431,Priya Pawar,34.0,Female,Operations,25287.0,Kolhapur,Premium,20.038533,74.828844,96848.85,Very Good
+1011,Akash Joshi,49.0,Male,IT,100678.0,Kolhapur,Regular,20.923501,74.184991,30755.36,Good
+1657,Sakshi Shinde,51.0,Female,Data Analytics,26050.0,Thane,New,20.34687,73.968364,49673.54,Average
+1814,Neha Pawar,18.0,Female,Data Analytics,19159.0,Aurangabad,Regular,19.884112,76.381555,99344.95,Excellent
+1484,Anjali Joshi,30.0,Female,IT,57655.0,Nagpur,New,19.066707,78.089158,51523.17,Very Good
+1544,Sakshi More,37.0,Male,HR,21253.0,Pune,Regular,20.129557,76.682996,48161.19,Excellent
+1200,Riya Shinde,38.0,Male,Data Analytics,28970.0,Nashik,Regular,20.421366,75.250529,68822.51,Average
+1502,Amit Shinde,43.0,Female,Data Analytics,106843.0,Thane,Premium,19.342678,75.780769,98958.86,Good
+1941,Isha Kulkarni,52.0,Male,Data Analytics,106362.0,Nashik,Premium,20.997508,78.395343,78493.81,Good
+1108,Amit Shinde,53.0,Female,Data Analytics,36983.0,Nashik,Regular,17.432695,80.422117,97721.76,Good
+1219,Sneha Jadhav,53.0,Male,Marketing,117732.0,Kolhapur,Regular,19.174553,79.859629,71987.45,Poor
+1926,Isha Kulkarni,33.0,Female,Data Analytics,40292.0,Ahmednagar,New,17.413345,78.780655,87440.7,Very Good
+1175,Sneha Patil,58.0,Male,Operations,45475.0,Nagpur,Regular,19.126301,75.34313,95202.39,Excellent
+1724,Sakshi Sharma,42.0,Female,IT,77530.0,Kolhapur,Premium,16.685469,73.49582,64662.29,Good
+1882,Rahul Joshi,39.0,Female,Operations,66879.0,Pune,New,16.729099,79.509872,57228.31,Very Good
+1934,Sahil Sharma,56.0,Female,Sales,20175.0,Mumbai,Premium,20.066503,77.237604,43139.16,Excellent
+1395,Anjali Sharma,51.0,Female,Sales,52655.0,Mumbai,New,20.975876,74.303925,5639.72,Average
+1040,Aditya Jadhav,53.0,Female,Data Analytics,34692.0,Nagpur,Regular,18.640741,73.498111,24877.6,Poor
+1834,Isha Shinde,23.0,Female,Sales,47631.0,Kolhapur,New,18.777162,75.02179,10191.9,Excellent
+1774,Sahil Kulkarni,24.0,Female,HR,98478.0,Ahmednagar,Regular,19.026373,77.080894,20571.73,Average
+1352,Vikas Shinde,35.0,Male,HR,30336.0,Mumbai,regular,18.404688,74.025139,5677.96,Poor
+1067,Karan Patil,37.0,Female,Marketing,92640.0,Ahmednagar,Premium,17.529542,78.410519,59491.46,Very Good
+1278,Vikas Pawar,48.0,Female,Sales,101006.0,Ahmednagar,Premium,18.137902,77.198607,29361.44,Excellent
+1068,Anjali More,49.0,Male,Operations,36119.0,Kolhapur,Regular,18.983657,77.877404,38704.01,Poor
+1911,Riya More,55.0,Male,Finance,106924.0,Aurangabad,New,16.92324,77.823811,77533.45,Average
+1440,Priya Chavan,52.0,Male,Operations,78214.0,Aurangabad,Regular,21.237092,73.533101,47682.75,Very Good
+1737,Aarav Kulkarni,24.0,Female,Sales,39716.0,Kolhapur,Premium,20.107755,75.892323,26176.41,Very Good
+1297,Aarav Deshmukh,43.0,Male,Marketing,93579.0,Pune,Regular,19.501964,75.494129,35297.31,Good
+1621,Akash Shinde,54.0,Male,Sales,113028.0,Nagpur,Regular,20.114975,78.571528,8938.03,Average
+1491,Vikas More,33.0,Male,Finance,46082.0,Ahmednagar,New,19.736127,73.033951,12350.79,Excellent
+1820,Meera Joshi,26.0,Female,Marketing,49931.0,Mumbai,Regular,19.682306,78.813657,45024.28,Poor
+1559,Pooja More,51.0,Male,Marketing,62312.0,Pune,New,18.905586,72.61648,42926.31,Excellent
+1425,Neha Pawar,21.0,Male,Sales,96080.0,Nashik,Premium,18.367792,77.326911,58640.56,Excellent
+1925,Neha Kulkarni,37.0,Male,Sales,111100.0,Mumbai,Regular,17.926759,77.731357,8630.06,Very Good
+1313,Neha Sharma,49.0,Female,Finance,117193.0,Aurangabad,Regular,20.232215,74.24875,89273.24,Average
+1185,Karan Chavan,46.0,Female,IT,112471.0,Thane,New,21.1775,75.361949,28558.67,Good
+1333,Sneha Chavan,58.0,Female,IT,60544.0,Ahmednagar,New,21.371996,76.033508,98301.41,Average
+1089,Nikhil Shinde,45.0,Male,HR,26239.0,Aurangabad,New,17.866825,77.70024,21142.65,Poor
+1064,Vikas Joshi,50.0,Female,Operations,20655.0,Aurangabad,New,16.988628,76.502605,48210.09,Very Good
+1835,Sahil Kulkarni,56.0,Female,Operations,65436.0,Kolhapur,Regular,16.663037,74.416776,1986.7,Good
+1577,Neha Pawar,56.0,Male,Sales,37877.0,Nagpur,New,17.974157,74.359265,60163.9,Good
+1216,Isha Joshi,30.0,Female,Operations,41698.0,Aurangabad,Regular,20.003084,79.508844,29038.56,Excellent
+1616,Isha Joshi,31.0,Male,Marketing,66833.0,Mumbai,New,21.108678,78.434511,28540.52,Average
+1514,Aditya Chavan,54.0,Male,Operations,44958.0,Aurangabad,Premium,16.581343,74.504846,29842.09,Excellent
+1291,Meera Kulkarni,52.0,Female,Operations,101099.0,Aurangabad,New,16.944883,78.827978,84911.0,Good
+1378,Isha Kulkarni,26.0,Female,Data Analytics,65157.0,Kolhapur,Premium,19.084863,79.015182,15298.25,Average
+1892,Pooja Patil,30.0,Female,Sales,93146.0,Nagpur,New,19.725798,79.671269,18437.2,Good
+1970,Rohan Shinde,53.0,Female,Operations,39318.0,Ahmednagar,Premium,17.340942,74.68762,63612.16,Good
+1947,Aarav Chavan,23.0,Male,Sales,60569.0,Ahmednagar,Premium,19.022106,78.670247,56310.39,Average
+1787,Sneha Deshmukh,46.0,Male,Data Analytics,85119.0,Nashik,Regular,20.22879,75.834739,95894.53,Good
+1426,Neha Joshi,53.0,Male,Data Analytics,61665.0,Aurangabad,Premium,21.145742,72.714708,9179.5,Excellent
+1697,Vikas Jadhav,24.0,Male,Data Analytics,84964.0,Mumbai,Regular,17.356309,74.901852,74826.04,Poor
+1996,Rohan Chavan,48.0,Female,IT,29478.0,Ahmednagar,Premium,20.652491,76.287373,97419.98,Excellent
+1310,Amit Sharma,59.0,Male,Operations,35636.0,Nashik,Regular,21.230262,79.659077,47334.52,Very Good
+1087,Kavya Joshi,18.0,Female,Data Analytics,101736.0,Mumbai,Regular,19.390966,75.916916,65344.22,Good
+1732,Aditya Joshi,49.0,Male,Operations,45305.0,Ahmednagar,Premium,21.363306,78.173028,39940.87,Excellent
+1756,Akash Deshmukh,55.0,Female,Finance,115209.0,Kolhapur,New,19.187167,75.574782,65443.65,Good
+1311,Rahul More,52.0,Female,Operations,26382.0,Kolhapur,Premium,19.013194,76.116641,37743.79,Good
+1539,Riya Chavan,51.0,Male,Marketing,78782.0,Ahmednagar,Premium,19.779005,79.641502,39848.61,Average
+1137,Akash Jadhav,26.0,Female,Operations,80972.0,Ahmednagar,Regular,17.692417,79.833715,26437.11,Good
+1959,Rahul Joshi,59.0,Female,Marketing,53754.0,Kolhapur,Premium,17.007547,74.251234,89701.86,Poor
+2000,Rahul Sharma,46.0,Female,Operations,23739.0,Ahmednagar,Regular,17.554251,78.314037,37625.59,Average
+1729,Sneha Sharma,18.0,Female,Sales,119590.0,Kolhapur,Regular,21.400235,78.670163,60615.27,Excellent
+1262,Aditya Kulkarni,51.0,Female,Data Analytics,34048.0,Mumbai,Regular,18.027738,76.715414,93053.44,Good
+1548,Sahil Jadhav,48.0,Male,Data Analytics,36409.0,Pune,New,19.953311,78.022774,48333.705,Poor
+1169,Neha Kulkarni,32.0,Male,Sales,27807.0,Thane,Regular,19.354867,78.206395,15059.8,Very Good
+1791,Sahil Joshi,53.0,Male,IT,51977.0,Thane,Premium,19.827603,73.9912,35905.81,Poor
+1449,Priya More,59.0,Male,Finance,115173.0,Mumbai,New,20.219,77.818341,84685.76,Excellent
+1140,Priya Deshmukh,38.0,Male,Operations,27214.0,Aurangabad,New,20.485224,78.046909,45878.74,Average
+1686,Akash Chavan,44.0,Female,IT,92441.0,Pune,New,17.271479,76.265708,36405.42,Very Good
+1667,Karan Kulkarni,22.0,Female,Data Analytics,31569.0,Kolhapur,Regular,20.494934,76.890777,54105.35,Good
+1858,Rohan Chavan,28.0,Male,Finance,112612.0,Nashik,New,16.510429,72.525033,49081.77,Excellent
+1519,Sneha Joshi,27.0,Female,Operations,87789.0,Thane,Regular,16.726294,76.190856,73182.43,Average
+1409,Unknown,51.0,Male,Sales,50268.0,Ahmednagar,Premium,20.612859,79.810018,43375.3,Poor
+1534,Sahil Chavan,21.0,Female,Sales,82765.0,Kolhapur,Premium,19.867044,72.589685,44497.4,Poor
+1056,Rohan Joshi,33.0,Female,Operations,77786.0,Thane,Premium,19.073799,76.442703,1654.44,Good
+1121,Riya Chavan,30.0,Female,Operations,17170.0,Mumbai,New,17.50324,79.980486,60814.13,Good
+1531,Anjali Pawar,45.0,Female,Operations,80483.0,Thane,Regular,16.891103,78.431572,62809.85,Excellent
+1026,Anjali Shinde,44.0,Female,Data Analytics,118895.0,Thane,Regular,19.455226,79.513762,37967.3,Good
+1073,Anjali Joshi,47.0,Male,Marketing,68650.5,Mumbai,Regular,21.347139,73.519447,32860.28,Very Good
+1045,Vikas Patil,25.0,Male,Sales,109018.0,Ahmednagar,Regular,17.67311,78.567368,17662.46,Very Good
+1250,Nikhil Kulkarni,52.0,Female,IT,119969.0,Kolhapur,New,18.604353,74.594309,42785.4,Average
+1405,Priya Jadhav,52.0,Male,Operations,56139.0,Nashik,Regular,17.518669,80.317947,32503.14,Good
+1848,Riya Patil,28.0,Female,Finance,42321.0,Ahmednagar,New,17.969906,73.483156,7577.83,Average
+1704,Akash More,51.0,Male,Data Analytics,72915.0,Thane,New,19.148251,76.997137,5881.29,Very Good
+1919,Neha Joshi,36.0,Female,Marketing,88184.0,Kolhapur,Regular,16.620285,79.89078,75982.33,Excellent
+1199,Isha Joshi,53.0,Male,IT,62483.0,Kolhapur,Premium,17.888669,72.936858,26276.57,Very Good
+1543,Neha Patil,27.0,Female,Finance,89427.0,Mumbai,New,20.221234,77.578323,15259.25,Good
+1356,Karan Pawar,54.0,Female,Operations,118991.0,Pune,Regular,20.96113,78.229483,1298.87,Excellent
+1324,Aarav Pawar,34.0,Female,Marketing,107225.0,Nagpur,Regular,21.380641,72.829143,11511.23,Good
+1650,Kavya More,26.0,Male,Marketing,83679.0,Mumbai,Regular,18.188674,79.841425,43031.59,Very Good
+1917,Riya Patil,31.0,Female,IT,45497.0,Aurangabad,New,18.199783,74.29045,21543.54,Very Good
+1236,Anjali More,43.0,Male,Operations,101413.0,Thane,Regular,20.446587,76.023265,1564.12,Excellent
+1581,Neha Jadhav,55.0,Female,Marketing,57610.0,Aurangabad,Premium,17.013318,77.731942,54465.83,Very Good
+1950,Sneha Jadhav,60.0,Female,IT,76393.0,Nashik,New,18.091682,73.510459,72411.01,Very Good
+1944,Isha More,52.0,Female,Data Analytics,89278.0,Aurangabad,Premium,19.485023,74.018861,91303.48,Good
+1908,Isha Sharma,25.0,Male,HR,61598.0,Ahmednagar,Regular,20.648453,77.827461,21740.28,Good
+1300,Meera Shinde,36.0,Male,Data Analytics,106547.0,Ahmednagar,Regular,17.350614,78.199895,1381.94,Excellent
+1061,Rahul More,40.0,Female,Operations,68857.0,Nagpur,Premium,18.082572,77.607489,22881.04,Average
+1328,Kavya Patil,36.0,Female,Operations,52289.0,Kolhapur,New,19.414515,75.960045,33455.74,Average
+1932,Neha Sharma,22.0,Female,Marketing,32659.0,Ahmednagar,Regular,21.305617,73.39106,5847.36,Average
+1602,Anjali Kulkarni,42.0,Male,Operations,68054.0,Aurangabad,Premium,19.741501,75.608524,22819.12,Poor
+1448,Rahul Shinde,26.0,Female,Operations,38969.0,Ahmednagar,regular,20.490735,79.043169,76055.84,Poor
+1830,Anjali Kulkarni,19.0,Male,IT,16653.0,Pune,Premium,21.340159,77.334972,60884.27,Good
+1651,Riya Patil,52.0,Male,Marketing,115269.0,Aurangabad,Premium,17.069846,80.40701,72807.42,Good
+1599,Anjali More,53.0,Female,Operations,97742.0,Nagpur,New,19.382017,73.257957,88702.46,Excellent
+1545,Sakshi Pawar,42.0,Female,Marketing,67219.0,Thane,Premium,18.014,77.80032,49848.14,Good
+1785,Nikhil Chavan,58.0,Male,Operations,34942.0,Nashik,Regular,18.194901,78.689949,98063.89,Good
+1306,Neha Kulkarni,24.0,Female,Finance,62151.0,Mumbai,Premium,20.636287,77.604845,91354.36,Very Good
+1319,Vikas Patil,25.0,Male,Data Analytics,91818.0,Mumbai,Premium,20.13354,73.178071,14417.5,Good
+1761,Sakshi Chavan,28.0,Female,IT,50633.0,Mumbai,Regular,19.203951,79.508049,42710.08,Good
+1495,Aditya Pawar,56.0,Female,Finance,59970.0,Thane,Premium,20.507723,75.790225,64141.73,Good
+1266,Pooja Chavan,21.0,Female,Finance,26552.0,Mumbai,Regular,20.06782,78.187537,37021.57,Excellent
+1111,Akash Patil,57.0,Female,Sales,59914.0,Kolhapur,New,20.61954,80.162205,5093.54,Average
+1694,Meera Sharma,50.0,Female,Data Analytics,83610.0,Mumbai,Premium,20.674067,75.919178,42397.16,Excellent
+1945,Karan Jadhav,56.0,Male,Finance,39461.0,Ahmednagar,New,17.682456,75.605164,57246.53,Excellent
+1528,Kavya Joshi,55.0,Male,Operations,16276.0,Mumbai,Premium,21.09056,77.355908,68967.48,Excellent
+1257,Aarav Sharma,55.0,Female,Data Analytics,36068.0,Mumbai,Regular,17.418698,74.181899,94521.67,Average
+1261,Amit Pawar,60.0,Male,IT,26939.0,Ahmednagar,Regular,17.500377,73.870878,17268.97,Good
+1635,Aarav Deshmukh,42.0,Female,Data Analytics,106841.0,Aurangabad,Premium,17.28157,76.04981,37226.69,Very Good
+1824,Rohan Chavan,46.0,Male,IT,86197.0,Aurangabad,Regular,20.158585,75.505326,94044.04,Very Good
+1430,Kavya Jadhav,43.0,Female,Marketing,30712.0,Pune,Premium,18.801166,74.147138,4583.37,Very Good
+1631,Rohan Chavan,27.0,Male,Finance,45753.0,Ahmednagar,New,19.953488,77.636311,29057.05,Poor
+1381,Meera Deshmukh,47.0,Female,IT,43885.0,Kolhapur,New,20.184346,79.266413,27749.23,Poor
+1434,Pooja Jadhav,55.0,Female,Finance,79574.0,Aurangabad,New,17.846592,75.449218,19696.29,Excellent
+1735,Rahul More,39.0,Female,Finance,86855.0,Kolhapur,Regular,20.003952,72.961637,45702.5,Average
+1138,Akash Sharma,38.0,Male,Finance,113616.0,Nashik,New,17.249811,75.519161,65152.01,Good
+1358,Sahil Pawar,34.0,Male,IT,47786.0,Mumbai,New,17.396861,74.589084,28581.23,Very Good
+1529,Priya Shinde,29.0,Male,Finance,38148.0,Pune,New,20.55003,73.917893,94592.8,Average
+1222,Sneha Shinde,37.0,Male,Marketing,38425.0,Ahmednagar,Premium,16.539331,76.232294,63745.71,Very Good
+1757,Isha Chavan,27.0,Female,Data Analytics,119852.0,Ahmednagar,Regular,18.449968,78.148558,40807.44,Average
+1597,Unknown,43.0,Male,IT,59222.0,Mumbai,New,16.803523,77.05364,54691.89,Poor
+1560,Unknown,26.0,Female,Marketing,62226.0,Mumbai,Regular,17.225771,79.064212,45774.9,Very Good
+1364,Akash Deshmukh,25.0,Female,Data Analytics,115921.0,Mumbai,Regular,20.051278,79.074891,28473.31,Good
+1526,Karan Joshi,21.0,Female,Data Analytics,34601.0,Mumbai,Premium,20.53917,73.790932,58534.49,Average
+1209,Pooja Pawar,39.0,Female,Sales,89012.0,Nashik,Regular,20.494707,78.039311,77864.05,Excellent
+1412,Rahul Pawar,31.0,Male,Marketing,104536.0,Ahmednagar,Regular,17.561981,75.550549,33761.07,Poor
+1335,Amit Sharma,45.0,Female,Operations,44661.0,Nashik,New,17.561088,73.107108,49162.25,Very Good
+1211,Anjali Pawar,40.0,Male,IT,95200.0,Kolhapur,New,21.087286,77.028775,42115.25,Poor
+1351,Neha Joshi,46.0,Male,Sales,59560.0,Nashik,Premium,19.02271,79.263586,68601.55,Average
+1079,Kavya Sharma,21.0,Female,Data Analytics,82717.0,Thane,New,17.570401,79.281337,39682.76,Average
+1030,Anjali Patil,39.0,Male,Finance,80776.0,Pune,Premium,17.922188,79.028453,6104.99,Excellent
+1281,Vikas Kulkarni,30.0,Male,Marketing,108271.0,Kolhapur,Premium,18.337998,73.688535,722.31,Average
+1586,Aditya Joshi,31.0,Male,Data Analytics,111537.0,Aurangabad,Premium,19.393306,74.727661,76087.34,Very Good
+1753,Neha Patil,38.0,Female,Finance,96962.0,Kolhapur,New,20.377002,73.433845,8182.32,Good
+1781,Meera Sharma,56.0,Male,Finance,79486.0,Nagpur,Regular,21.206715,72.551362,48638.8,Good
+1290,Riya Deshmukh,32.0,Female,Operations,41438.0,Nashik,New,17.643536,78.777322,89303.14,Excellent
+1166,Rohan Deshmukh,59.0,Female,Sales,114816.0,Nashik,Premium,20.699052,77.202507,9352.93,Poor
+1606,Sahil Deshmukh,40.0,Female,Marketing,60039.0,Mumbai,New,19.730899,73.902648,29041.2,Poor
+1875,Aarav Joshi,26.0,Female,IT,57534.0,Nagpur,Regular,20.139321,77.766712,6177.34,Poor
+1721,Kavya Joshi,23.0,Female,Data Analytics,105147.0,Nashik,Premium,20.361863,73.069875,47283.36,Poor
+1066,Meera Jadhav,49.0,Male,Marketing,90168.0,Ahmednagar,Regular,19.95432,74.050162,9908.05,Excellent
+1142,Amit Kulkarni,43.0,Male,IT,101427.0,Kolhapur,Regular,18.926912,72.996018,67814.3,Poor
+1276,Sahil Chavan,44.0,Female,HR,67513.0,Thane,New,17.367395,79.868109,85152.32,Excellent
+1836,Anjali More,56.0,Female,Marketing,116086.0,Nagpur,New,17.284198,75.389685,76748.57,Average
+1656,Rohan Jadhav,21.0,Male,Sales,35352.0,Pune,Regular,20.424429,76.671775,35584.57,Poor
+1466,Anjali More,43.0,Male,Marketing,66605.0,Ahmednagar,Premium,20.179446,72.812678,97261.16,Poor
+1671,Vikas Deshmukh,50.0,Male,Marketing,18744.0,Kolhapur,New,20.408262,75.909919,8819.96,Poor
+1320,Kavya Sharma,39.0,Male,Sales,41255.0,Ahmednagar,New,17.446816,78.512982,74835.56,Average
+1399,Anjali Chavan,25.0,Male,Marketing,113145.0,Nashik,Premium,19.304273,78.024149,71302.77,Very Good
+1307,Rohan Shinde,39.0,Male,Marketing,46359.0,Mumbai,New,18.970745,78.824996,1187.59,Good
+1308,Meera Sharma,36.0,Male,Marketing,100854.0,Nagpur,New,17.62242,77.697898,77060.04,Average
+1829,Sahil Shinde,24.0,Female,Data Analytics,65014.0,Thane,Premium,18.788564,78.555293,99702.45,Poor
+1334,Anjali Patil,43.0,Male,Data Analytics,51242.0,Ahmednagar,New,18.487774,74.624999,12319.83,Poor
+1050,Vikas Chavan,24.0,Female,Finance,58283.0,Kolhapur,Premium,17.072356,77.501892,9416.31,Poor
+1826,Neha Kulkarni,53.0,Male,Operations,38803.0,Ahmednagar,New,17.314214,80.196463,71419.87,Average
+1003,Pooja Chavan,34.0,Male,Finance,50847.0,Mumbai,Regular,17.095671,79.571453,70260.31,Excellent
+1549,Sahil Jadhav,33.0,Male,Data Analytics,22869.0,Ahmednagar,Regular,21.315708,76.051893,57180.97,Very Good
+1353,Meera Kulkarni,39.0,Male,Data Analytics,82277.0,Ahmednagar,Regular,21.387619,77.332272,83068.66,Excellent
+1913,Karan Chavan,29.0,Female,Operations,118739.0,Thane,Premium,18.102156,77.568386,80949.09,Good
+1952,Akash Shinde,40.0,Male,Finance,93470.0,Ahmednagar,Premium,16.827291,77.226208,14889.42,Average
+1347,Riya Kulkarni,40.0,Male,Operations,88220.0,Ahmednagar,Regular,20.511243,77.900859,79374.94,Good
+1217,Aditya Joshi,33.0,Male,Data Analytics,69162.0,Kolhapur,Premium,21.015785,79.784344,95285.32,Excellent
+1825,Neha Shinde,53.0,Male,Operations,76623.0,Nagpur,Regular,18.584612,76.660593,4481.28,Poor
+1582,Kavya Jadhav,60.0,Male,Finance,103236.0,Aurangabad,Regular,20.738148,72.595851,81916.41,Very Good
+1034,Neha Deshmukh,40.0,Male,IT,45145.0,Pune,New,18.33205,75.511012,12176.01,Good
+1032,Aditya Jadhav,27.0,Male,Marketing,72658.0,Pune,Regular,19.452317,73.487325,47650.64,Very Good
+1232,Riya Patil,25.0,Male,Operations,107470.0,Ahmednagar,Regular,18.694229,72.579137,8916.22,Average
+1755,Nikhil Joshi,31.0,Male,IT,82713.0,Ahmednagar,New,16.921405,78.192876,48002.92,Very Good
+1193,Meera Chavan,57.0,Female,HR,64155.0,Nagpur,Regular,19.16735,76.641445,67942.28,Average
+1515,Kavya Sharma,56.0,Male,Operations,28090.0,Thane,Regular,20.202581,78.172797,98533.5,Excellent
+1004,Sneha Joshi,59.0,Female,Sales,112243.0,Nashik,Regular,18.750578,80.063268,55027.0,Very Good
+1205,Riya Pawar,38.0,Male,Sales,48244.0,Nagpur,New,19.726988,74.014845,27103.31,Poor
+1540,Pooja Joshi,38.0,Female,IT,54326.0,Aurangabad,Regular,18.800815,76.75839,44882.56,Good
+1663,Sneha Patil,44.0,Female,Finance,111677.0,Nagpur,New,19.521447,80.436101,94431.01,Average
+1989,Rahul Jadhav,27.0,Male,Marketing,35202.0,Ahmednagar,Premium,20.703421,74.892814,12912.16,Average
+1110,Kavya More,57.0,Male,Operations,104861.0,Thane,Regular,19.804031,78.016392,25209.54,Poor
+1603,Sneha Patil,47.0,Female,Finance,24351.0,Thane,Regular,20.945703,79.896427,23054.18,Good
+1078,Sakshi Deshmukh,21.0,Male,IT,38597.0,Nagpur,Regular,20.751671,74.694624,70223.82,Poor
+1085,Rahul Joshi,36.0,Female,Data Analytics,109312.0,Ahmednagar,New,21.289705,79.564815,54128.69,Excellent
+1527,Aditya Deshmukh,53.0,Male,Data Analytics,76995.0,Kolhapur,Premium,18.206672,79.207967,72398.92,Excellent
+1083,Amit Patil,59.0,Female,Marketing,98574.0,Ahmednagar,Premium,20.523015,77.415652,6861.2,Excellent
+1255,Anjali Pawar,24.0,Male,Data Analytics,107640.0,Kolhapur,Premium,20.309877,79.580092,92085.67,Good
+1765,Sahil Shinde,42.0,Male,Sales,84722.0,Nagpur,Premium,18.203544,76.505175,77990.33,Good
+1429,Sahil Shinde,19.0,Female,Sales,28983.0,Nashik,Regular,16.644373,75.587153,60382.59,Poor
+1916,Vikas Patil,47.0,Male,IT,78942.0,Pune,New,21.169244,75.162409,21735.37,Average
+1524,Karan Shinde,37.0,Female,Marketing,119862.0,Thane,New,20.286771,76.266302,86864.2,Very Good
+1468,Sahil Patil,26.0,Female,Marketing,116699.0,Ahmednagar,Premium,21.018671,77.670393,81546.08,Average
+1645,Sahil Joshi,49.0,Female,Operations,86884.0,Ahmednagar,New,19.884639,74.33208,44946.19,Good
+1006,Riya Sharma,54.0,Male,Data Analytics,90842.0,Pune,Regular,18.712781,80.337123,32680.15,Poor
+1406,Kavya Patil,27.0,Male,Data Analytics,61338.0,Ahmednagar,Premium,17.920582,80.454059,28889.04,Excellent
+1469,Karan Jadhav,32.0,Male,Marketing,37911.0,Mumbai,Regular,19.517568,79.851167,49755.08,Good
+1098,Amit Joshi,54.0,Male,HR,93753.0,Pune,Regular,19.817283,72.847717,57720.56,Poor
+1927,Priya Deshmukh,34.0,Male,Operations,17798.0,Pune,Regular,20.341523,80.229984,45416.38,Excellent
+1360,Sakshi More,41.0,Female,Marketing,73034.0,Kolhapur,Regular,18.964199,74.754762,43180.72,Good
+1877,Rohan Jadhav,18.0,Female,HR,36936.0,Thane,Regular,19.623852,73.303646,70124.66,Poor
+1267,Nikhil Kulkarni,24.0,Female,Finance,23399.0,Aurangabad,New,20.338037,73.447947,13765.22,Poor
+1423,Akash Pawar,47.0,Male,Finance,41577.0,Nashik,New,21.406672,73.921089,24206.1,Very Good
+1463,Karan Patil,25.0,Male,IT,19268.0,Aurangabad,Regular,17.270673,77.053833,29320.81,Excellent
+1696,Aarav Chavan,29.0,Male,Sales,98824.0,Mumbai,New,17.933791,79.751656,22846.43,Excellent
+1974,Riya More,46.0,Female,Operations,116714.0,Thane,Premium,19.275761,74.225641,74697.9,Very Good
+1494,Meera Chavan,24.0,Male,HR,95358.0,Pune,Premium,16.895916,79.769892,29538.41,Good
+1119,Akash Joshi,41.0,Male,IT,32329.0,Nashik,New,20.133075,72.692188,91122.92,Poor
+1972,Anjali More,54.0,Female,HR,96229.0,Pune,Regular,21.263063,77.091776,58048.51,Good
+1251,Neha Patil,35.0,Female,IT,87165.0,Mumbai,Premium,20.146158,73.309522,53665.32,Poor
+1343,Isha Joshi,40.0,Female,Finance,37942.0,Ahmednagar,Regular,18.854662,73.448703,74318.37,Very Good
+1010,Aarav Joshi,19.0,Male,Sales,64369.0,Nashik,Premium,20.396912,75.073106,93490.26,Very Good
+1197,Isha Pawar,51.0,Male,Finance,56405.0,Mumbai,Regular,18.874271,79.05347,40563.8,Good
+1742,Sneha More,54.0,Male,Operations,47754.0,Nashik,Regular,19.552005,78.152472,27546.85,Poor
+1082,Priya Pawar,56.0,Female,HR,88872.0,Mumbai,Regular,19.367603,77.921876,53243.72,Poor
+1949,Aditya Joshi,33.0,Female,Marketing,110997.0,Nashik,New,17.846438,79.971401,20256.72,Very Good
+1480,Anjali Kulkarni,47.0,Male,Data Analytics,42623.0,Kolhapur,Regular,18.34118,75.57732,57403.85,Poor
+1626,Meera Pawar,53.0,Male,Finance,36930.0,Ahmednagar,Premium,18.301278,73.135117,18545.87,Very Good
+1240,Riya More,20.0,Male,Finance,73536.0,Nagpur,New,18.958459,80.302474,14074.62,Very Good
+1293,Akash More,29.0,Female,IT,52487.0,Nagpur,Regular,17.808916,73.839468,1086.16,Poor
+1212,Pooja Sharma,59.0,Male,Finance,51118.0,Aurangabad,Premium,19.857993,75.185284,46049.77,Good
+1901,Akash Sharma,54.0,Male,Operations,104908.0,Mumbai,Premium,19.013194,80.446892,21657.2,Average
+1362,Kavya Deshmukh,21.0,Female,HR,88815.0,Ahmednagar,New,18.840424,80.474739,73060.23,Good
+1533,Sneha Patil,49.0,Female,Sales,97660.0,Aurangabad,New,17.796588,77.871137,21012.82,Average
+1228,Vikas Sharma,40.0,Female,Finance,55193.0,Nashik,New,20.28334,75.507294,8130.97,Poor
+1865,Rohan Joshi,41.0,Male,Operations,54166.0,Thane,Premium,18.189116,78.386504,51491.69,Excellent
+1363,Neha Kulkarni,60.0,Male,IT,78390.0,Nashik,Regular,16.94824,80.06652,19092.59,Good
+1853,Isha Pawar,37.0,Male,IT,57344.0,Kolhapur,New,21.184103,76.115345,76433.06,Good
+1955,Rohan Patil,57.0,Male,Operations,24027.0,Kolhapur,Regular,21.068675,79.318896,73568.48,Poor
+1965,Rohan Pawar,24.0,Male,Sales,116701.0,Ahmednagar,Regular,20.731389,79.12201,26648.87,Excellent
+1366,Vikas Shinde,37.0,Female,HR,114283.0,Nagpur,Regular,17.80203,72.595126,26721.31,Good
+1771,Amit Sharma,50.0,Male,HR,32907.0,Ahmednagar,New,20.661145,79.894565,1592.21,Excellent
+1860,Kavya Chavan,35.0,Female,Sales,83278.0,Ahmednagar,Premium,16.837823,80.035502,29019.19,Very Good
+1372,Pooja Kulkarni,58.0,Male,Finance,91916.0,Pune,New,18.302961,78.286687,10754.96,Excellent
+1008,Akash Pawar,57.0,Female,HR,89732.0,Nagpur,New,17.384346,74.684105,86652.62,Poor
+1156,Akash Deshmukh,39.0,Female,Finance,84444.0,Thane,Regular,16.776636,77.492065,31977.85,Excellent
+1546,Kavya Shinde,29.0,Female,Data Analytics,27972.0,Nashik,Regular,20.565662,77.780323,46209.32,Very Good
+1808,Meera More,27.0,Female,Operations,119787.0,Pune,Premium,18.560265,73.138478,95305.42,Good
+1486,Riya Patil,20.0,Male,HR,95318.0,Nagpur,Regular,19.8822,79.584335,72197.63,Poor
+1585,Rohan Pawar,48.0,Male,Marketing,116547.0,Pune,Premium,18.978516,77.763694,14353.39,Average
+1786,Priya Kulkarni,35.0,Female,Data Analytics,21505.0,Thane,Premium,17.680487,75.842717,75292.1,Very Good
+1571,Sneha Sharma,52.0,Male,IT,41077.0,Ahmednagar,Premium,20.193906,75.081437,83136.45,Very Good
+1478,Akash Jadhav,32.0,Male,Data Analytics,16549.0,Nagpur,New,16.951112,77.441892,21089.0,Average
+1583,Karan Patil,53.0,Female,HR,81904.0,Thane,New,18.65894,74.202144,85345.66,Poor
+1943,Rohan Joshi,41.0,Female,Operations,39874.0,Pune,New,17.698115,77.220478,43960.01,Excellent
+1698,Karan Deshmukh,24.0,Male,IT,55587.0,Ahmednagar,Premium,17.830078,76.797581,12164.96,Very Good
+1833,Kavya Pawar,53.0,Female,Marketing,108674.0,Ahmednagar,New,19.972354,75.24462,99443.25,Poor
+1535,Anjali Sharma,40.0,Female,Sales,84990.0,Pune,Premium,18.668995,74.686018,32764.17,Excellent
+1588,Aditya Sharma,37.0,Male,IT,25277.0,Mumbai,Regular,21.495132,72.851512,81638.76,Excellent
+1715,Unknown,32.0,Female,Finance,32865.0,Thane,Regular,20.350759,75.826561,41941.24,Very Good
+1452,Rahul Pawar,41.0,Female,Operations,67150.0,Thane,New,16.962755,74.98251,36918.2,Poor
+1457,Nikhil Kulkarni,23.0,Female,Marketing,22097.0,Pune,Premium,16.60256,80.428681,52614.39,Good
+1229,Riya Sharma,53.0,Female,Marketing,90713.0,Nagpur,Regular,17.987115,75.702501,24383.66,Poor
+1488,Sahil Patil,44.0,Male,Operations,39530.0,Aurangabad,Regular,20.068177,79.560447,85321.27,Poor
+1750,Rahul More,60.0,Male,Operations,49469.0,Mumbai,New,18.226253,77.126734,82339.24,Good
+1213,Akash More,34.0,Female,Operations,104208.0,Thane,Regular,17.764914,74.897053,44176.52,Very Good
+1080,Sneha Deshmukh,36.0,Male,IT,68143.0,Nashik,Premium,17.825775,72.68494,81837.55,Very Good
+1149,Sneha Shinde,52.0,Female,Operations,100096.0,Kolhapur,Regular,20.448349,72.917625,64734.34,Good
+1303,Riya Kulkarni,37.0,Female,Marketing,37214.0,Kolhapur,Premium,19.129189,80.146015,53145.11,Very Good
+1666,Pooja More,32.0,Male,Data Analytics,97114.0,Ahmednagar,Regular,21.231339,73.889407,55159.26,Excellent
+1329,Amit Pawar,54.0,Male,Finance,110176.0,Thane,Regular,19.736178,75.440096,3644.85,Average
+1670,Riya Deshmukh,31.0,Female,Data Analytics,37361.0,Nagpur,Regular,21.373299,76.559396,23396.39,Excellent
+1345,Rahul Joshi,38.0,Female,Marketing,81353.0,Aurangabad,New,19.531872,76.868208,13576.06,Good
+1712,Priya Patil,47.0,Male,IT,15012.0,Mumbai,New,19.910993,78.342949,24882.06,Very Good
+1508,Sahil Deshmukh,26.0,Female,Finance,74077.0,Mumbai,Regular,18.823282,77.904977,32793.91,Poor
+1134,Sahil Jadhav,27.0,Female,Finance,20116.0,Mumbai,Regular,17.302922,76.07165,73045.89,Average
+1555,Riya Jadhav,53.0,Female,Operations,73963.0,Ahmednagar,New,20.579841,79.770051,81841.17,Good
+1312,Rohan Kulkarni,51.0,Male,Sales,51167.0,Nashik,Premium,17.831014,74.375077,36767.32,Poor
+1759,Rohan Jadhav,22.0,Male,Finance,105954.0,Thane,Premium,20.899378,73.142787,5939.83,Poor
+1500,Vikas Sharma,33.0,Male,IT,42594.0,Nagpur,Regular,17.743268,76.535159,5626.24,Good
+1001,Sneha Sharma,59.0,Female,Operations,83337.0,Nashik,New,21.453558,76.538562,28595.23,Very Good
+1317,Karan More,35.0,Male,Data Analytics,66792.0,Nagpur,Premium,17.577833,79.239453,65799.82,Very Good
+1714,Riya Kulkarni,33.0,Female,Operations,114391.0,Nashik,New,18.712893,75.736442,83191.27,Average
+1552,Neha Patil,27.0,Female,HR,77460.0,Mumbai,Regular,16.938176,75.519164,28563.4,Excellent
+1804,Rohan Deshmukh,35.0,Female,IT,59815.0,Aurangabad,New,20.392748,76.025844,16541.69,Average
+1537,Priya Jadhav,60.0,Female,Operations,56383.0,Nagpur,Regular,18.474669,73.923522,63165.17,Poor
+1746,Rahul More,22.0,Male,Data Analytics,99671.0,Ahmednagar,New,20.937899,77.343485,74441.91,Poor
+1846,Vikas Kulkarni,54.0,Female,Sales,83306.0,Ahmednagar,Premium,18.024623,79.900297,57862.91,Poor
+1173,Anjali Patil,28.0,Female,Data Analytics,77539.0,Nashik,New,19.402099,73.507853,97958.78,Average
+1126,Meera Sharma,20.0,Male,Sales,70023.0,Kolhapur,Regular,20.72061,79.16014,4155.03,Very Good
+1990,Akash Joshi,40.0,Male,Data Analytics,95352.0,Nagpur,New,17.906556,79.020097,50163.5,Good
+1424,Vikas Patil,54.0,Female,Finance,47728.0,Mumbai,Regular,17.109955,79.111799,27956.72,Good
+1809,Karan Chavan,42.0,Male,Operations,80325.0,Mumbai,Regular,16.961243,73.185657,23541.22,Poor
+1912,Sahil More,52.0,Female,Operations,85300.0,Kolhapur,Regular,19.167719,79.881889,6708.83,Good
+1091,Meera Pawar,34.0,Male,Operations,73877.0,Nagpur,Premium,19.155318,75.083994,12173.94,Very Good
+1948,Kavya Joshi,24.0,Male,Marketing,57425.0,Mumbai,Premium,21.246785,78.880145,89431.04,Poor
+1182,Priya Patil,25.0,Male,IT,39775.0,Mumbai,New,20.186182,77.176178,10006.29,Excellent
+1275,Riya Joshi,28.0,Male,Data Analytics,65374.0,Mumbai,New,17.167549,77.589144,83256.78,Very Good
+1904,Nikhil More,42.0,Female,Data Analytics,114557.0,Pune,Premium,19.159297,75.112006,45730.58,Good
+1070,Aarav Jadhav,23.0,Female,Sales,97515.0,Nashik,New,19.836938,73.904231,70422.33,Very Good
+1292,Riya Sharma,20.0,Female,IT,82915.0,Nagpur,Premium,18.812124,77.419092,6220.92,Poor
+1132,Aditya Sharma,51.0,Female,IT,95576.0,Kolhapur,New,17.834674,76.008236,59382.42,Good
+1301,Pooja Kulkarni,20.0,Male,IT,45365.0,Thane,Premium,19.336214,76.703805,43364.98,Very Good
+1933,Rohan Shinde,46.0,Female,Marketing,47859.0,Pune,New,17.407289,75.221903,89548.18,Excellent
+1327,Pooja Chavan,39.0,Male,Operations,87036.0,Nashik,Premium,17.74159,76.10921,42395.05,Average
+1145,Nikhil Patil,55.0,Male,IT,85685.0,Mumbai,New,21.028278,77.385909,20774.41,Good
+1498,Vikas More,56.0,Female,HR,80374.0,Nashik,New,19.92157,75.449857,13730.65,Average
+1678,Amit Joshi,57.0,Male,Finance,85855.0,Pune,Premium,17.090297,77.111375,36490.09,Average
+1951,Vikas Kulkarni,60.0,Female,Sales,51087.0,Kolhapur,Premium,19.265605,77.809942,58059.69,Good
+1136,Kavya Chavan,50.0,Male,Data Analytics,84655.0,Pune,New,17.680649,80.296205,55209.94,Excellent
+1782,Sahil Shinde,43.0,Male,Operations,39613.0,Ahmednagar,New,18.743684,73.84719,5280.87,Good
+1165,Nikhil Jadhav,34.0,Male,Sales,112175.0,Thane,Premium,18.484475,76.637703,33271.07,Average
+1029,Priya Pawar,31.0,Male,Operations,15864.0,Nashik,Regular,20.332354,79.640578,17238.18,Excellent
+1961,Anjali Chavan,39.0,Male,HR,85989.0,Pune,Premium,19.757755,73.679403,50194.84,Average
+1194,Riya Chavan,48.0,Male,Marketing,100792.0,Nagpur,Premium,19.998089,77.761414,78980.37,Average
+1962,Neha Deshmukh,45.0,Female,Data Analytics,63118.0,Nagpur,Regular,17.127857,74.767143,31982.58,Average
+1644,Amit Patil,59.0,Female,IT,77021.0,Pune,New,17.80404,78.504407,15204.13,Average
+1170,Meera Jadhav,21.0,Female,Operations,70769.0,Ahmednagar,Regular,19.001243,77.243092,79910.69,Good
+1986,Neha Deshmukh,44.0,Male,IT,80214.0,Thane,Premium,21.496209,78.70831,30543.47,Average
+1141,Priya Sharma,28.0,Male,IT,78208.0,Pune,New,18.052703,78.76117,94501.68,Excellent
+1174,Rohan Jadhav,51.0,Female,Sales,115382.0,Nagpur,Regular,20.375579,76.571184,22611.44,Good
+1007,Aarav Patil,44.0,Male,HR,86349.0,Ahmednagar,Premium,16.679906,78.162033,79232.11,Average
+1897,Sahil Kulkarni,38.0,Male,Sales,47600.0,Nagpur,Regular,20.288076,73.863464,40451.29,Good
+1482,Aarav Shinde,27.0,Male,Marketing,91153.0,Thane,New,19.653431,78.088176,1381.7,Very Good
+1074,Sakshi Pawar,33.0,Female,Operations,34249.0,Aurangabad,Regular,17.508793,79.968507,71519.93,Poor
+1690,Sneha Jadhav,35.0,Female,Operations,113161.0,Ahmednagar,Regular,17.509452,73.747028,46308.64,Poor
+1584,Sahil Patil,31.0,Male,HR,78896.0,Ahmednagar,Premium,18.57843,74.26077,8954.04,Good
+1239,Rohan Pawar,36.0,Male,Sales,45116.0,Aurangabad,Premium,20.397283,75.379274,93277.92,Average
+1146,Neha Patil,39.0,Female,IT,15157.0,Ahmednagar,Regular,17.509953,75.954712,63142.04,Poor
+1800,Aditya Jadhav,36.0,Female,Marketing,34750.0,Nashik,Regular,20.187562,78.973429,79708.9,Poor
+1235,Anjali Joshi,42.0,Male,Sales,33096.0,Nashik,Premium,19.722148,73.639216,80930.52,Poor
+1221,Vikas Sharma,32.0,Male,Operations,78238.0,Thane,Premium,18.712014,78.045764,23262.03,Poor
+1479,Meera Chavan,33.0,Male,Sales,103356.0,Kolhapur,Premium,18.612682,75.956613,858.25,Excellent
+1719,Riya Patil,59.0,Male,IT,85136.0,Pune,New,18.191518,74.962487,52981.28,Poor
+1133,Aditya Jadhav,47.0,Female,Data Analytics,93618.0,Ahmednagar,Regular,17.935223,73.265366,28100.87,Excellent
+1779,Nikhil More,56.0,Female,Data Analytics,106812.0,Pune,Regular,17.119065,78.486322,4965.02,Excellent
+1985,Anjali Chavan,36.0,Male,HR,104551.0,Pune,New,19.899989,79.885263,36697.55,Excellent
+1186,Vikas Chavan,38.0,Female,Sales,118471.0,Pune,Premium,17.590042,77.169327,27469.87,Excellent
+1042,Karan Sharma,38.0,Female,IT,35625.0,Kolhapur,Regular,18.559648,74.043927,39966.16,Good
+1617,Isha Sharma,41.0,Male,IT,50553.0,Ahmednagar,Premium,20.767269,76.52736,8090.85,Excellent
+1109,Kavya Pawar,35.0,Male,Marketing,109920.0,Thane,Regular,18.996018,74.305024,65986.86,Excellent
+1595,Aarav Shinde,56.0,Female,Finance,36964.0,Thane,Regular,20.838171,78.830078,2610.19,Excellent
+1057,Kavya Patil,28.0,Male,Operations,42617.0,Thane,Premium,18.605863,78.132382,48333.705,Excellent
+1446,Nikhil Joshi,44.0,Female,HR,51009.0,Pune,New,20.50779,79.463593,71304.51,Excellent
+1568,Isha Pawar,46.0,Male,Sales,61018.0,Nashik,New,18.609396,72.8521,38707.06,Poor
+1869,Anjali Patil,49.0,Female,Marketing,102385.0,Aurangabad,Regular,17.164048,78.413637,41612.83,Poor
+1025,Rahul Joshi,46.0,Female,Operations,78813.0,Kolhapur,New,17.816955,73.14919,85913.86,Very Good
+1421,Sakshi Sharma,50.0,Female,Finance,42102.0,Nashik,Regular,18.143289,73.871389,59096.65,Poor
+1450,Karan Shinde,59.0,Female,Operations,81995.0,Pune,Premium,19.235781,73.77025,56254.43,Average
+1536,Priya Deshmukh,59.0,Female,Data Analytics,109445.0,Ahmednagar,New,16.589576,76.025264,20789.9,Good
+1803,Rahul Shinde,23.0,Male,Marketing,43467.0,Nashik,New,17.462776,79.472924,4222.12,Very Good
+1935,Rohan Patil,48.0,Male,Operations,78609.0,Kolhapur,Regular,17.990122,74.005251,96354.89,Excellent
+1339,Amit Pawar,43.0,Female,Finance,67947.0,Kolhapur,Regular,16.865278,76.873215,75233.45,Poor
+1052,Meera Jadhav,36.0,Male,Operations,29855.0,Mumbai,New,19.192084,74.269181,81910.42,Good
+1716,Riya Jadhav,37.0,Male,IT,60073.0,Nashik,Regular,20.088129,75.657198,76659.06,Average
+1520,Sahil Sharma,60.0,Female,Operations,71651.0,Pune,Regular,18.581258,73.160389,28329.14,Good
+1929,Vikas Sharma,27.0,Female,IT,64514.0,Nagpur,Premium,21.260824,74.36694,21803.44,Average
+1639,Priya Chavan,53.0,Female,Marketing,36877.0,Thane,Regular,18.968625,78.795767,78991.18,Excellent
+1265,Sneha More,32.0,Male,HR,72065.0,Nagpur,New,17.748018,75.969744,17894.01,Average
+1542,Neha Chavan,44.0,Male,Operations,88680.0,Aurangabad,New,19.788585,72.882048,43673.4,Average
+1718,Sneha Deshmukh,59.0,Male,IT,76498.0,Thane,Regular,16.847906,75.572299,14441.18,Average
+1689,Meera Deshmukh,51.0,Male,HR,97712.0,Thane,Premium,17.114917,75.967444,14365.25,Very Good
+1590,Sneha Kulkarni,31.0,Male,Sales,95434.0,Pune,Premium,18.498402,75.788775,48151.38,Excellent
+1523,Kavya Jadhav,44.0,Female,HR,34116.0,Nashik,Premium,20.120473,76.001789,65903.1,Very Good
+1451,Vikas Sharma,44.0,Female,Finance,51735.0,Aurangabad,Premium,19.511458,77.100731,35060.28,Good
+1019,Rahul More,43.0,Male,Marketing,64326.0,Nagpur,Regular,19.268919,72.576629,19967.68,Good
+1723,Pooja More,42.0,Male,Marketing,114021.0,Kolhapur,Premium,18.466331,80.43978,44675.38,Poor
+1487,Pooja Patil,60.0,Female,IT,49039.0,Aurangabad,Regular,19.738053,73.763458,26254.04,Very Good
+1573,Priya Shinde,21.0,Male,HR,90483.0,Pune,Premium,18.925234,77.497387,13651.82,Poor
+1437,Meera Pawar,45.0,Male,Marketing,115171.0,Thane,Premium,16.719235,79.7785,94210.89,Poor
+1368,Aarav Joshi,43.0,Female,Data Analytics,116659.0,Pune,Regular,21.392583,80.414197,66799.88,Average
+1084,Rahul Kulkarni,48.0,Female,HR,17440.0,Nashik,Regular,19.622861,77.945443,83795.82,Good
+1062,Aditya Shinde,28.0,Female,IT,17942.0,Nagpur,Regular,19.351768,73.387572,58891.62,Average
+1441,Anjali Shinde,21.0,Male,Operations,63653.0,Thane,Regular,21.499106,75.847306,76218.31,Good
+1273,Karan Kulkarni,18.0,Female,Sales,19948.0,Pune,Regular,18.757449,75.043613,34126.88,Poor
+1286,Rohan Chavan,21.0,Male,Sales,98924.0,Nagpur,Regular,16.603673,76.566156,95933.93,Poor
+1361,Karan Sharma,33.0,Male,HR,64424.0,Thane,New,18.195884,75.273059,61952.51,Average
+1355,Amit Jadhav,55.0,Female,Operations,68650.5,Pune,Premium,17.161191,79.339994,59910.14,Good
+1653,Rahul Patil,29.0,Male,IT,28622.0,Mumbai,New,19.309907,78.070224,32643.81,Poor
+1279,Vikas Joshi,48.0,Male,Sales,83289.0,Thane,New,17.908987,79.335483,48570.91,Good
+1013,Sahil Shinde,52.0,Male,HR,62880.0,Aurangabad,New,18.653406,75.127658,57927.16,Good
+1183,Riya Jadhav,30.0,Male,Data Analytics,15716.0,Aurangabad,Premium,20.529208,76.605006,35215.57,Excellent
+1369,Akash Patil,50.0,Male,Data Analytics,75142.0,Aurangabad,New,18.996053,80.111911,43201.31,Very Good
+1496,Sakshi Joshi,20.0,Male,Operations,62962.0,Thane,Regular,18.001966,78.594886,94233.58,Good
+1622,Aarav Sharma,32.0,Male,Marketing,91928.0,Pune,Regular,18.451856,73.492449,4813.01,Very Good
+1224,Karan More,31.0,Male,Marketing,88281.0,Mumbai,Premium,21.137537,76.34597,30913.32,Average
+1811,Riya Joshi,41.0,Female,HR,75776.0,Aurangabad,Premium,17.150317,73.014099,68305.24,Good
+1706,Karan Chavan,40.0,Female,Operations,62943.0,Aurangabad,Regular,17.189972,75.165873,58369.9,Very Good
+1507,Meera More,21.0,Male,IT,51651.0,Ahmednagar,New,18.565097,77.610933,97235.75,Poor
+1550,Aarav Kulkarni,32.0,Male,Sales,43241.0,Nashik,Premium,19.875511,77.285643,94363.83,Good
+1589,Vikas Joshi,18.0,Female,Finance,64947.0,Aurangabad,Premium,16.685086,79.58368,31084.81,Poor
+1177,Vikas Jadhav,42.0,Female,HR,52128.0,Mumbai,Premium,16.951244,77.466807,12788.6,Good
+1741,Riya Jadhav,31.0,Male,IT,66740.0,Mumbai,Regular,21.001043,75.391314,93179.3,Good
+1634,Unknown,32.0,Female,HR,112501.0,Mumbai,Regular,17.366456,80.408411,50175.45,Excellent
+1592,Amit More,25.0,Female,HR,75784.0,Pune,Premium,20.123071,76.496608,54580.88,Average
+1591,Isha Jadhav,30.0,Female,Operations,52555.0,Nashik,Premium,19.066779,78.640361,24758.98,Excellent
+1394,Isha Chavan,46.0,Male,Marketing,47539.0,Aurangabad,New,17.08012,75.3373,42993.75,Good
+1164,Meera Pawar,48.0,Female,Sales,92207.0,Thane,Premium,20.928597,72.707777,40974.74,Average
+1249,Sahil Pawar,30.0,Female,Marketing,59359.0,Thane,Premium,16.831836,73.908619,1225.38,Excellent
+1708,Karan Shinde,43.0,Female,IT,49053.0,Thane,Premium,21.0901,74.065726,59595.6,Poor
+1894,Rohan Sharma,38.0,Male,Finance,63679.0,Nashik,Premium,16.92576,76.357348,95975.04,Good
+1676,Isha Chavan,58.0,Female,Operations,77410.0,Pune,New,19.036529,77.34681,22323.73,Good
+1376,Aditya Pawar,32.0,Female,IT,48792.0,Thane,Regular,20.647946,76.920922,85559.76,Good
+1413,Sneha Joshi,55.0,Male,Finance,39925.0,Pune,Regular,21.490023,80.089541,11597.1,Good
+1075,Rohan Deshmukh,31.0,Female,Operations,22328.0,Nashik,Premium,19.677221,79.343832,86289.94,Excellent
+1114,Unknown,24.0,Female,Data Analytics,92410.0,Nagpur,Premium,19.689632,75.133797,29692.98,Excellent
+1579,Isha Joshi,22.0,Male,Sales,52304.0,Nagpur,New,18.458667,75.086943,1434.92,Average
+1939,Sakshi Chavan,50.0,Female,Sales,53628.0,Aurangabad,Premium,17.789671,75.006978,48421.71,Good
+1391,Sakshi Jadhav,56.0,Male,Marketing,16274.0,Aurangabad,New,18.851238,78.40244,22566.64,Average
+1105,Pooja Jadhav,42.0,Male,Operations,101461.0,Nashik,New,20.904483,75.177647,30208.5,Good
+1115,Priya Patil,43.0,Female,Marketing,24023.0,Nashik,Premium,20.544667,73.002753,53643.19,Average
+1418,Sahil Jadhav,21.0,Male,Operations,111394.0,Nashik,Regular,17.730787,80.195505,36376.59,Very Good
+1594,Pooja Kulkarni,33.0,Female,HR,33985.0,Thane,New,21.025366,78.200249,54589.48,Good
+1458,Vikas Chavan,60.0,Male,Marketing,83909.0,Pune,Premium,17.541114,76.065853,95268.2,Very Good
+1410,Rohan Chavan,46.0,Male,Operations,38957.0,Ahmednagar,Regular,19.316237,77.09103,25600.17,Poor
+1093,Isha Kulkarni,43.0,Female,Finance,76789.0,Aurangabad,Regular,18.236582,75.755007,69673.98,Average
+1569,Akash Shinde,41.0,Female,HR,104074.0,Pune,Regular,17.082294,76.600001,11448.53,Poor
+1090,Riya Pawar,26.0,Male,Finance,43389.0,Thane,New,19.332141,79.330878,66028.95,Average
+1337,Aditya More,38.0,Female,IT,40496.0,Kolhapur,Regular,18.616455,74.856143,68332.78,Poor
+1999,Priya Sharma,24.0,Female,IT,101362.0,Aurangabad,Regular,20.891396,73.074586,46152.94,Very Good
+1930,Rahul More,45.0,Female,Marketing,61945.0,Kolhapur,Regular,19.893043,74.572752,89360.8,Poor
+1942,Rahul Shinde,20.0,Female,Marketing,79237.0,Pune,New,16.759391,74.986391,96576.19,Good
+1612,Priya Deshmukh,47.0,Female,Finance,108117.0,Nashik,Regular,18.690553,72.64119,49436.15,Poor
+1600,Sneha Chavan,38.0,Female,Marketing,95256.0,Mumbai,Premium,19.266278,75.094834,41820.82,Good
+1618,Aditya Jadhav,38.0,Female,Data Analytics,73313.0,Thane,Regular,20.075996,78.137033,33705.62,Good
+1095,Sneha Pawar,20.0,Female,IT,37356.0,Pune,Regular,20.618695,76.646362,44999.67,Good
+1012,Riya Pawar,58.0,Male,HR,64613.0,Ahmednagar,Regular,17.320721,80.171941,65636.08,Good
+1397,Vikas Sharma,22.0,Male,Marketing,67288.0,Mumbai,New,18.707598,78.521009,36675.83,Good
+1874,Sakshi Joshi,24.0,Female,HR,71906.0,Ahmednagar,Premium,17.244913,76.308975,97754.45,Good
+1044,Karan More,47.0,Female,IT,93908.0,Thane,New,17.721144,78.445156,59817.47,Excellent
+1043,Pooja Sharma,33.0,Female,Operations,62477.0,Pune,Regular,16.782246,72.574906,30617.62,Average
+1330,Sahil Jadhav,30.0,Male,Operations,88284.0,Kolhapur,Premium,16.928693,76.480344,66787.38,Poor
+1168,Isha Jadhav,54.0,Female,Data Analytics,90513.0,Mumbai,Premium,17.680206,72.598309,77918.06,Very Good
+1501,Anjali Jadhav,20.0,Female,Operations,69931.0,Thane,New,18.638659,78.736085,98012.35,Very Good
+1885,Nikhil Joshi,45.0,Male,Data Analytics,16170.0,Pune,Regular,17.886875,72.753966,87478.81,Average
+1604,Pooja Joshi,52.0,Male,Sales,25369.0,Ahmednagar,New,17.084704,78.671251,38845.61,Average
+1893,Amit Deshmukh,48.0,Female,Sales,35315.0,Nashik,New,19.719571,80.14041,11280.66,Good
+1101,Rahul Sharma,41.0,Male,Finance,91368.0,Mumbai,New,17.756324,79.847132,26047.67,Excellent
+1427,Rahul Chavan,47.0,Female,HR,68650.5,Thane,New,17.03035,74.09199,11083.37,Average
+1179,Karan Pawar,33.0,Male,HR,86267.0,Pune,Regular,20.365954,73.601382,87613.44,Good
+1445,Aditya Jadhav,36.0,Female,HR,90303.0,Kolhapur,Premium,20.816394,74.151838,42112.15,Good
+1417,Aditya Kulkarni,46.0,Female,Marketing,45783.0,Nagpur,New,21.102066,75.130731,13465.65,Very Good
+1654,Karan Shinde,52.0,Male,Operations,49400.0,Pune,New,18.931826,74.279552,13189.81,Average
+1891,Rahul Deshmukh,56.0,Female,Sales,105230.0,Aurangabad,Premium,18.04424,76.234424,11357.35,Poor
+1665,Riya Kulkarni,58.0,Male,Marketing,73085.0,Mumbai,Regular,16.75211,73.504488,38626.93,Very Good
+1178,Sakshi Pawar,27.0,Male,IT,93419.0,Pune,New,19.499107,73.987387,52884.33,Very Good
+1396,Meera Chavan,41.0,Male,Data Analytics,27190.0,Pune,New,18.974554,75.905755,11450.47,Average
+1683,Sakshi Jadhav,18.0,Male,Data Analytics,106438.0,Mumbai,Regular,20.309823,80.108106,13792.47,Good
+1802,Rohan Deshmukh,22.0,Male,Marketing,79694.0,Mumbai,New,19.082259,80.363577,86946.83,Excellent
+1971,Rahul Patil,55.0,Female,Operations,17453.0,Nashik,New,17.725807,79.281354,64072.18,Very Good
+1981,Neha Chavan,40.0,Female,HR,85642.0,Kolhapur,New,16.800875,79.28456,19520.32,Very Good
+1384,Vikas Pawar,44.0,Male,Sales,45137.0,Thane,Regular,19.278374,75.841503,2257.3,Very Good
+1967,Isha Joshi,32.0,Female,HR,81316.0,Thane,New,20.414408,75.061115,98829.74,Poor
+1619,Akash Patil,44.0,Male,Marketing,117363.0,Aurangabad,New,18.842336,72.606333,36369.1,Very Good
+1258,Pooja Kulkarni,33.0,Male,Sales,66000.0,Kolhapur,New,18.717025,76.149629,68565.77,Average
+1336,Anjali Shinde,50.0,Male,HR,94477.0,Nagpur,New,18.417477,79.711807,49808.98,Good
+1016,Karan Jadhav,37.0,Female,HR,25202.0,Nagpur,Premium,20.320056,79.878062,89773.2,Very Good
+1636,Pooja Shinde,54.0,Male,Marketing,113269.0,Thane,Premium,18.960929,79.518655,26907.4,Average
+1325,Akash Sharma,29.0,Male,Marketing,23993.0,Kolhapur,Premium,17.677428,76.598097,28847.53,Poor
+1766,Sakshi Deshmukh,52.0,Female,Sales,50235.0,Aurangabad,Premium,19.678428,76.76561,33879.43,Excellent
+1223,Riya Deshmukh,36.0,Female,Operations,63524.0,Pune,Regular,21.30374,74.205108,9150.76,Average
+1180,Vikas Joshi,20.0,Male,Operations,68562.0,Nashik,Regular,18.067052,72.852566,59088.29,Very Good
+1994,Nikhil Chavan,31.0,Male,Sales,99004.0,Nashik,Premium,16.948576,75.638285,82904.49,Very Good
+1522,Rohan Patil,32.0,Male,Sales,40698.0,Aurangabad,New,18.069732,78.208652,2056.03,Excellent
+1023,Sahil Joshi,21.0,Male,Finance,61255.0,Nashik,Regular,17.281555,76.411814,10643.81,Poor
+1357,Rahul Jadhav,18.0,Male,Sales,90352.0,Mumbai,New,16.705625,76.845005,48279.2,Average
+1680,Sneha More,60.0,Male,IT,86898.0,Thane,New,18.308192,74.111208,85134.21,Poor
+1870,Priya Pawar,56.0,Female,Finance,43545.0,Aurangabad,Premium,17.192611,78.851683,45284.18,Excellent
+1341,Sakshi Patil,24.0,Female,Operations,15609.0,Nagpur,Premium,16.760563,74.7114,40287.66,Good
+1432,Anjali Jadhav,40.0,Female,Operations,103580.0,Mumbai,Premium,18.899275,76.695166,88462.12,Excellent
+1842,Isha Joshi,42.0,Female,IT,75402.0,Aurangabad,New,18.34793,72.524677,45753.38,Very Good
+1204,Neha Deshmukh,42.0,Female,HR,91725.0,Aurangabad,Premium,18.040857,73.04723,56972.3,Very Good
+1637,Karan Sharma,33.0,Male,Marketing,25494.0,Kolhapur,New,20.467412,73.574136,90744.97,Very Good
+1094,Nikhil Kulkarni,41.0,Male,HR,78133.0,Aurangabad,Premium,16.883308,73.473742,1029.74,Excellent
+1807,Rahul Jadhav,58.0,Female,Operations,117986.0,Ahmednagar,Regular,18.628461,77.591469,62782.3,Very Good
+1069,Neha Kulkarni,19.0,Male,HR,32658.0,Nashik,Regular,20.557286,77.32378,99995.44,Excellent
+1629,Rohan Shinde,44.0,Male,Operations,31389.0,Aurangabad,Premium,17.310129,74.116094,68872.49,Good
+1285,Meera Patil,59.0,Female,Sales,37973.0,Mumbai,Premium,19.351953,73.511668,92946.35,Poor
+1886,Meera Sharma,59.0,Female,Finance,20504.0,Pune,Premium,16.942649,76.4834,67080.48,Very Good
+1435,Amit Pawar,22.0,Male,Data Analytics,95455.0,Mumbai,New,19.790032,72.588377,44854.1,Good
+1154,Amit Joshi,19.0,Male,Sales,20693.0,Aurangabad,Premium,20.11237,79.416662,16822.29,Poor
+1076,Neha Joshi,55.0,Male,IT,36802.0,Aurangabad,Regular,21.370536,79.548025,53982.35,Poor
+1738,Rahul Deshmukh,51.0,Female,Operations,68967.0,Mumbai,Premium,18.068476,74.474334,57420.48,Very Good
+1447,Kavya Kulkarni,29.0,Male,Marketing,79330.0,Aurangabad,Premium,17.91477,74.978057,89212.87,Good
+1189,Aarav Patil,44.0,Male,Data Analytics,83490.0,Ahmednagar,New,17.872737,76.25619,32140.64,Excellent
+1272,Meera Shinde,26.0,Male,Operations,94826.0,Thane,Regular,21.197091,78.054831,96987.98,Good
+1237,Karan More,40.0,Female,Operations,30608.0,Thane,Premium,17.870183,77.550677,94865.47,Good
+1118,Pooja Pawar,53.0,Male,Operations,65523.0,Aurangabad,New,21.17318,75.955592,31637.14,Excellent
+1827,Priya More,50.0,Male,Data Analytics,68650.5,Mumbai,Premium,19.028929,74.626686,68445.91,Average
+1513,Kavya More,38.0,Female,Data Analytics,104916.0,Nashik,Premium,20.343234,72.802197,89884.41,Excellent
+1558,Kavya Patil,53.0,Male,Data Analytics,49048.0,Mumbai,New,16.634076,72.723553,14780.47,Average
+1598,Rahul Kulkarni,33.0,Male,Data Analytics,70288.0,Aurangabad,Premium,16.595098,74.515521,10705.33,Average
+1127,Rahul Pawar,20.0,Male,IT,34603.0,Ahmednagar,New,18.551301,79.07307,14595.9,Good
+1117,Karan Patil,39.0,Female,Operations,64572.0,Nashik,Regular,21.034179,72.722982,49299.06,Very Good
+1474,Priya Pawar,52.0,Male,Operations,75302.0,Pune,Regular,18.727212,79.087437,51173.2,Good
+1966,Kavya Sharma,34.0,Male,HR,98627.0,Pune,Regular,19.002162,72.774751,72367.46,Good
+1058,Priya Patil,38.0,Male,IT,92436.0,Kolhapur,New,16.602011,77.348216,12644.13,Average
+1681,Isha More,49.0,Female,IT,73306.0,Pune,Premium,20.141746,79.399404,36558.65,Poor
+1921,Sneha Patil,44.0,Female,IT,99495.0,Thane,Premium,18.410055,75.245806,25581.09,Good
+1370,Pooja More,37.0,Male,HR,104337.0,Thane,Premium,21.366857,79.423729,47652.34,Poor
+1269,Pooja Patil,39.0,Male,Marketing,44067.0,Kolhapur,New,17.150465,73.546357,5565.2,Average
+1047,Karan Pawar,46.0,Female,Sales,101652.0,Pune,Regular,16.924709,78.173582,77697.06,Average
+1350,Rohan More,33.0,Male,HR,53568.0,Aurangabad,Premium,16.526805,78.647863,1858.07,Good
+1196,Isha Sharma,26.0,Female,Data Analytics,105146.0,Ahmednagar,Regular,19.228725,74.399099,88261.1,Excellent
+1171,Sakshi Joshi,55.0,Female,Data Analytics,32548.0,Mumbai,New,17.103213,79.226236,27727.86,Excellent
+1843,Sneha Joshi,23.0,Male,HR,111380.0,Pune,Regular,17.947953,79.464332,17386.91,Average
+1744,Neha Shinde,35.0,Female,Marketing,108708.0,Nashik,Regular,18.51969,77.825405,38067.25,Poor
+1264,Rohan Sharma,58.0,Male,Finance,93675.0,Mumbai,Premium,17.054141,77.48563,90427.96,Good
+1444,Sahil Jadhav,20.0,Female,HR,79532.0,Pune,Premium,17.146601,79.7287,13219.28,Good
+1810,Nikhil Patil,38.0,Male,Finance,63679.0,Pune,Regular,18.624434,73.497453,21956.9,Excellent
+1305,Karan More,56.0,Female,Operations,19726.0,Ahmednagar,New,21.141424,77.149493,41366.55,Excellent
+1342,Amit Sharma,29.0,Male,Data Analytics,49223.0,Aurangabad,New,21.155323,74.321933,72736.46,Average
+1605,Rohan More,59.0,Male,Data Analytics,36233.0,Nashik,Premium,19.613483,73.563451,35654.34,Very Good
+1977,Rahul Kulkarni,47.0,Male,IT,57034.0,Aurangabad,Premium,21.305572,72.970501,77551.25,Good
+1150,Pooja Shinde,49.0,Female,Operations,71557.0,Nagpur,Regular,17.88886,79.299435,71587.27,Excellent
+1125,Sneha Sharma,50.0,Male,Finance,104701.0,Nashik,New,20.32765,80.170421,4951.19,Good
+1794,Isha Jadhav,29.0,Female,Marketing,108742.0,Aurangabad,Regular,17.996008,76.52091,33466.16,Poor
+1831,Pooja Joshi,23.0,Female,Data Analytics,30985.0,Mumbai,Regular,19.065927,75.192402,48333.705,Poor
+1051,Pooja Joshi,21.0,Male,Sales,109405.0,Thane,New,17.348896,78.967316,46635.54,Excellent
+1354,Sahil More,37.0,Female,Operations,48776.0,Ahmednagar,Premium,19.85631,73.602921,43251.67,Excellent
+1936,Pooja Deshmukh,55.0,Female,Data Analytics,107618.0,Nagpur,Regular,16.993721,80.036061,30042.05,Poor
+1143,Nikhil Joshi,40.0,Male,Data Analytics,32082.0,Kolhapur,Premium,21.456466,78.919097,94049.83,Good
+1471,Aditya Joshi,19.0,Female,Operations,30776.0,Aurangabad,Premium,16.980557,79.241116,51592.03,Average
+1400,Kavya Patil,21.0,Female,Data Analytics,59825.0,Aurangabad,New,18.788799,74.897098,25073.38,Excellent
+1632,Meera Jadhav,30.0,Male,Finance,101772.0,Nagpur,Regular,16.930959,74.404512,87602.52,Excellent
+1321,Meera Sharma,28.0,Male,Finance,82861.0,Ahmednagar,New,17.401849,74.860384,1078.12,Good
+1020,Sneha Deshmukh,37.0,Male,Marketing,44215.0,Ahmednagar,New,19.196962,73.888288,65298.18,Very Good
+1818,Rahul Jadhav,35.0,Male,HR,34148.0,Pune,New,20.860074,80.14171,52567.07,Excellent
+1801,Vikas Shinde,33.0,Male,Sales,16930.0,Ahmednagar,Regular,19.013194,74.035079,48333.705,Excellent
+1817,Rohan Chavan,41.0,Male,HR,113378.0,Nashik,Regular,20.394124,74.628646,61069.52,Very Good
+1408,Kavya Patil,38.0,Female,IT,90197.0,Nagpur,Regular,20.249683,78.893166,60848.92,Excellent
+1538,Isha Deshmukh,42.0,Male,Finance,117935.0,Thane,New,16.566523,78.215298,85893.02,Poor
+1627,Amit Pawar,55.0,Female,HR,39102.0,Pune,Regular,18.861624,73.600444,42811.83,Average
+1039,Neha Kulkarni,50.0,Male,Operations,42723.0,Nagpur,New,18.402867,80.370364,72393.77,Poor
+1176,Meera Chavan,57.0,Female,Data Analytics,25986.0,Thane,Regular,18.982256,76.351194,78382.0,Very Good
+1246,Riya Shinde,34.0,Male,Data Analytics,81629.0,Aurangabad,New,17.001978,79.280273,1883.08,Poor
+1837,Nikhil Joshi,38.0,Male,IT,73059.0,Ahmednagar,New,19.295133,75.687771,31299.46,Poor
+1674,Rahul Patil,21.0,Male,IT,61771.0,Nagpur,New,17.00934,74.08029,77770.96,Average
+1762,Rahul Chavan,54.0,Female,Finance,52313.0,Kolhapur,Regular,17.568673,73.826589,27357.0,Good
+1867,Riya Patil,33.0,Male,HR,62241.0,Aurangabad,Regular,20.6723,74.368469,31707.72,Very Good
+1155,Karan Jadhav,41.0,Female,Marketing,106441.0,Kolhapur,Regular,20.411169,78.799798,82246.0,Excellent
+1288,Rohan Pawar,59.0,Male,IT,72536.0,Mumbai,New,19.29265,76.411925,89395.08,Average
+1821,Priya Deshmukh,23.0,Male,Data Analytics,116666.0,Ahmednagar,New,21.482559,72.834875,13554.16,Average
+1570,Vikas Chavan,23.0,Male,Operations,94374.0,Thane,New,21.012077,79.024995,1848.43,Average
+1751,Anjali Deshmukh,20.0,Female,Data Analytics,25382.0,Kolhapur,New,20.559155,77.800837,97610.75,Good
+1018,Karan Patil,33.0,Female,IT,47975.0,Nashik,New,18.952769,72.534234,80533.67,Good
+1128,Neha More,20.0,Female,IT,94365.0,Pune,Premium,20.80093,76.6574,85680.47,Good
+1323,Rahul Sharma,59.0,Female,Data Analytics,111590.0,Ahmednagar,New,16.643866,74.341421,71067.33,Poor
+1256,Akash Chavan,57.0,Male,Sales,21822.0,Nagpur,Premium,19.706864,75.207066,99917.21,Excellent
+1775,Priya Sharma,45.0,Female,Operations,74682.0,Pune,New,20.159931,78.880272,92955.59,Average
+1975,Amit Patil,41.0,Female,Sales,96290.0,Pune,New,16.70896,74.831961,19171.87,Average
+1191,Meera Sharma,44.0,Female,Operations,83126.0,Thane,Premium,20.8145,74.828512,18476.91,Good
+1116,Priya More,41.0,Male,IT,45122.0,Kolhapur,Regular,20.763873,77.502358,14415.58,Excellent
+1623,Karan Pawar,27.0,Female,Marketing,83280.0,Ahmednagar,Premium,18.584305,74.391171,48333.705,Good
+1607,Meera More,37.0,Female,Marketing,44912.0,Nashik,Premium,18.741627,78.59373,92208.25,Very Good
+1181,Kavya Jadhav,54.0,Female,Operations,48791.0,Nagpur,Regular,20.661671,73.521446,80776.42,Very Good
+1302,Pooja Jadhav,18.0,Female,Data Analytics,95634.0,Mumbai,New,16.570575,76.366376,20155.67,Average
+1900,Priya Jadhav,49.0,Male,Operations,26980.0,Pune,Premium,20.252793,73.343757,60634.76,Poor
+1731,Neha Chavan,23.0,Male,Sales,93250.0,Mumbai,New,20.879067,75.28863,16454.7,Average
+1844,Sneha Jadhav,53.0,Female,Operations,116055.0,Nashik,New,19.113887,75.714467,29913.01,Good
+1668,Aditya More,27.0,Female,Finance,32206.0,Pune,Premium,21.313236,78.861865,49513.84,Average
+1518,Sneha Kulkarni,37.0,Female,HR,45907.0,Thane,Regular,20.714549,76.213964,35870.57,Very Good
+1995,Amit Shinde,51.0,Male,IT,57208.0,Nagpur,New,19.992147,76.480344,42871.99,Very Good
+1046,Akash Shinde,35.0,Female,Sales,30509.0,Kolhapur,New,18.060498,77.944435,74647.42,Average
+1918,Riya Shinde,46.0,Male,Data Analytics,56515.0,Nashik,Regular,17.40254,77.107777,2782.8,Good
+1158,Aditya Chavan,44.0,Female,IT,45079.0,Pune,Regular,18.069524,76.213673,38204.72,Good
+1752,Pooja Deshmukh,29.0,Male,IT,70343.0,Ahmednagar,New,19.743785,73.791419,60705.8,Average
+1172,Aarav Joshi,48.0,Female,Sales,48360.0,Ahmednagar,Regular,19.821086,79.73496,10245.71,Very Good
+1017,Rohan Pawar,48.0,Male,Operations,82720.0,Pune,New,19.344276,77.370294,21371.75,Poor
+1512,Priya Deshmukh,54.0,Female,Marketing,90483.0,Kolhapur,Regular,19.427839,74.055229,13794.35,Poor
+1049,Sahil Chavan,27.0,Male,Marketing,69344.0,Mumbai,Regular,20.8447,79.030247,67238.22,Average
+1982,Riya Joshi,19.0,Male,IT,65789.0,Nagpur,Regular,21.109054,79.975463,68123.01,Very Good
+1849,Pooja Kulkarni,42.0,Male,HR,76974.0,Aurangabad,Regular,16.639889,76.745035,71210.18,Excellent
+1516,Rohan Joshi,38.0,Male,Marketing,109478.0,Nashik,Premium,18.814395,73.591845,62782.55,Average
+1693,Sakshi Shinde,19.0,Male,HR,72013.0,Nagpur,Regular,16.532938,78.595434,93168.51,Excellent
+1481,Kavya Patil,40.0,Male,IT,64732.0,Nashik,Regular,17.431779,77.77264,59415.22,Excellent
+1284,Karan Deshmukh,36.0,Male,Data Analytics,116398.0,Aurangabad,Premium,20.673395,74.740586,92344.11,Very Good
+1850,Isha Sharma,28.0,Female,Operations,66003.0,Ahmednagar,New,17.214347,80.108496,46343.74,Poor
+1661,Sahil Joshi,21.0,Female,Marketing,45062.0,Kolhapur,Regular,20.767041,80.12929,63842.12,Excellent
+1226,Sneha More,38.0,Male,Operations,78407.0,Ahmednagar,Regular,18.004441,79.017221,84601.94,Good
+1027,Isha Shinde,48.0,Female,IT,78191.0,Nashik,Premium,18.388989,77.710132,48333.705,Average
+1790,Pooja Kulkarni,40.0,Male,Finance,28405.0,Ahmednagar,Regular,21.187697,73.91121,39368.81,Good
+1438,Rohan Jadhav,40.0,Male,Data Analytics,85972.0,Nashik,Regular,19.611824,75.628842,62091.53,Excellent
+1960,Unknown,43.0,Male,Operations,49517.0,Kolhapur,Premium,20.314891,77.939847,93415.03,Very Good
+1365,Vikas Deshmukh,47.0,Female,Sales,46886.0,Ahmednagar,Premium,18.664648,78.562449,11944.49,Average
+1230,Nikhil Joshi,35.0,Male,Marketing,60135.0,Aurangabad,Premium,20.797084,79.108675,9816.54,Excellent
+1038,Meera Pawar,41.0,Female,IT,51806.0,Nagpur,Regular,19.625765,78.994958,15282.55,Average
+1976,Rohan Deshmukh,43.0,Male,Finance,46298.0,Ahmednagar,New,20.563219,80.231966,69796.39,Good
+1375,Anjali Pawar,57.0,Male,Sales,30239.0,Ahmednagar,New,17.816082,77.196029,19272.57,Poor
+1470,Karan Patil,18.0,Male,Operations,74925.0,Nagpur,Regular,18.295221,75.274255,53480.75,Poor
+1978,Sahil Joshi,55.0,Male,HR,109503.0,Nagpur,Regular,19.60365,78.981681,60293.86,Poor
+1859,Priya Jadhav,45.0,Female,Sales,87034.0,Aurangabad,Regular,19.237686,77.604586,36665.47,Average
+1713,Vikas Kulkarni,54.0,Male,Sales,83592.0,Aurangabad,Regular,21.218701,75.494063,1741.53,Poor
+1733,Pooja Joshi,45.0,Female,Sales,119433.0,Mumbai,Regular,18.596526,77.579838,42650.27,Very Good
+1195,Priya Jadhav,21.0,Female,Sales,41924.0,Aurangabad,Regular,17.064807,73.656803,55391.33,Poor
+1910,Sneha Deshmukh,40.0,Female,HR,35174.0,Ahmednagar,Premium,19.397764,77.86481,98787.17,Very Good
+1873,Sneha Kulkarni,47.0,Female,Sales,97956.0,Kolhapur,Regular,19.836104,80.031821,4746.22,Poor
+1504,Sahil Joshi,32.0,Male,HR,63799.0,Ahmednagar,Regular,21.08651,74.158977,12060.39,Excellent
+1980,Meera Shinde,27.0,Male,Sales,101283.0,Nashik,New,17.336908,78.23413,21371.43,Good
+1883,Isha Patil,46.0,Female,Sales,118434.0,Nashik,New,19.852219,78.778896,85456.0,Average
+1580,Nikhil Jadhav,30.0,Male,Finance,61544.0,Nagpur,Premium,18.16925,72.619957,79270.24,Average
+1979,Isha Chavan,50.0,Female,Data Analytics,23302.0,Mumbai,Premium,19.765294,73.721618,22005.66,Excellent
+1163,Sneha Patil,56.0,Female,IT,60943.0,Nagpur,Regular,19.85836,77.906209,68555.94,Good
+1709,Sakshi Patil,23.0,Female,Operations,35410.0,Pune,New,20.990326,79.829055,16238.23,Poor
+1153,Riya Shinde,48.0,Male,Finance,63546.0,Pune,Premium,16.711162,75.788864,51387.03,Average
+1688,Sneha Deshmukh,19.0,Male,IT,74840.0,Kolhapur,Regular,20.595804,77.375154,77975.36,Excellent
+1707,Isha Jadhav,35.0,Female,Data Analytics,69028.0,Kolhapur,Premium,18.644114,78.218907,47944.24,Excellent
+1763,Kavya Kulkarni,33.0,Female,Data Analytics,99994.0,Nashik,Regular,19.058358,75.914972,10887.81,Very Good
+1112,Sneha More,25.0,Male,HR,74437.0,Kolhapur,Premium,21.190515,79.835962,94606.56,Excellent
+1227,Amit Pawar,48.0,Female,Data Analytics,48263.0,Nashik,New,21.181612,78.95817,63650.33,Very Good
+1695,Sakshi Jadhav,45.0,Female,Operations,98858.0,Nashik,Premium,18.868317,73.165863,21468.37,Average
+1104,Rahul Joshi,22.0,Female,IT,96685.0,Aurangabad,Premium,19.237812,75.634871,12909.35,Very Good
+1422,Sakshi Patil,44.0,Male,Sales,45042.0,Thane,New,17.921406,77.899084,60669.02,Excellent
+1420,Anjali Shinde,26.0,Male,HR,49787.0,Mumbai,Regular,16.971526,74.937164,74421.74,Average
+1758,Pooja Patil,43.0,Male,Operations,68650.5,Kolhapur,Premium,20.094403,80.293165,38356.77,Very Good
+1587,Isha Patil,39.0,Male,Finance,73580.0,Mumbai,Premium,20.155393,77.491275,89292.83,Good
+1788,Rahul Joshi,49.0,Female,Operations,17900.0,Ahmednagar,Regular,19.407969,74.806722,50271.5,Excellent
+1673,Rahul Patil,41.0,Male,Sales,101972.0,Thane,Premium,20.791937,73.81327,52931.12,Good
+1120,Sahil Chavan,27.0,Male,Finance,29230.0,Thane,Regular,16.799408,78.877767,99681.32,Average
+1054,Amit More,57.0,Male,HR,103503.0,Thane,Regular,19.788839,80.238372,63417.18,Good
+1152,Sakshi Patil,37.0,Female,Finance,70139.0,Nagpur,New,19.721469,77.438416,64953.23,Poor
+1404,Karan Chavan,54.0,Male,HR,77463.0,Ahmednagar,Regular,18.248022,73.613078,66212.86,Poor
+1954,Akash Patil,59.0,Male,IT,36016.0,Thane,Premium,19.667706,72.573508,48333.705,Very Good
+1208,Priya Kulkarni,52.0,Male,Sales,70517.0,Ahmednagar,Premium,20.197249,76.239219,37329.99,Excellent
+1659,Aditya Shinde,22.0,Male,Sales,66097.0,Aurangabad,Premium,19.285112,73.016935,97298.46,Good
+1852,Aditya Joshi,35.0,Female,HR,55908.0,Kolhapur,Regular,18.608785,74.488301,97859.13,Average
+1988,Nikhil Jadhav,25.0,Female,HR,87281.0,Pune,Regular,17.563771,78.319164,81995.63,Poor
+1009,Nikhil Shinde,58.0,Male,Data Analytics,37786.0,Pune,Regular,19.797055,77.798216,5885.27,Average
+1909,Karan Jadhav,54.0,Male,Marketing,99485.0,Ahmednagar,New,20.694587,80.112031,57036.55,Good
+1037,Sakshi Chavan,26.0,Male,Operations,68650.5,Kolhapur,Regular,20.32597,79.213166,43665.23,Good
+1453,Amit Shinde,42.0,Female,HR,44110.0,Kolhapur,New,17.77582,74.123783,63171.53,Very Good
+1652,Kavya Kulkarni,49.0,Female,HR,25911.0,Thane,Premium,17.633451,78.911614,14894.45,Good
+1254,Rahul Pawar,26.0,Female,Marketing,104727.0,Nagpur,Premium,19.97605,77.738954,66286.82,Excellent
+1304,Aarav More,54.0,Male,Marketing,103345.0,Ahmednagar,Regular,20.366797,76.290065,89901.74,Poor
+1754,Nikhil Patil,19.0,Male,Marketing,46399.0,Mumbai,New,20.904873,73.238446,69396.45,Average
+1572,Anjali Kulkarni,30.0,Male,HR,90609.0,Nashik,Regular,18.72633,77.514291,93500.43,Average
+1624,Rohan Shinde,19.0,Female,Sales,74020.0,Mumbai,New,21.205985,75.927983,43148.53,Poor
+1717,Akash Joshi,23.0,Female,IT,52586.0,Nashik,New,19.086743,78.437552,47241.59,Poor
+1905,Meera Kulkarni,35.0,Female,Finance,96937.0,Mumbai,New,21.311884,75.567919,54735.58,Excellent
+1263,Aditya Pawar,32.0,Female,Sales,76822.0,Nagpur,Premium,19.379047,78.892183,76489.19,Average
+1611,Riya Jadhav,49.0,Male,Operations,53188.0,Kolhapur,Regular,18.846202,73.040108,90210.66,Average
+1298,Anjali More,49.0,Female,Marketing,81918.0,Ahmednagar,New,17.246256,76.651139,72382.14,Good
+1415,Sakshi Shinde,23.0,Female,Sales,111614.0,Nagpur,Premium,20.334238,75.591471,68454.67,Excellent
+1151,Sakshi Sharma,54.0,Female,HR,83425.0,Nagpur,Regular,19.253531,75.713465,56582.39,Poor
+1984,Nikhil Chavan,24.0,Male,Finance,83690.0,Kolhapur,New,17.754445,78.385805,37340.51,Good
+1641,Sneha Patil,39.0,Female,Data Analytics,28501.0,Ahmednagar,New,19.284153,78.834238,97815.92,Poor
+1938,Amit Sharma,52.0,Male,Finance,88272.0,Ahmednagar,New,20.965055,73.51934,94223.19,Excellent
+1551,Anjali Joshi,37.0,Male,Data Analytics,48330.0,Ahmednagar,Premium,20.523204,72.889318,18450.46,Poor
+1799,Sneha Joshi,57.0,Female,Marketing,26822.0,Aurangabad,Regular,18.388329,78.499326,2856.69,Poor
+1489,Rohan Kulkarni,57.0,Male,IT,86901.0,Pune,Regular,21.153338,76.8019,29988.19,Good
+1711,Neha Shinde,43.0,Female,HR,16383.0,Kolhapur,Regular,19.080776,79.393241,14557.11,Excellent
+1148,Pooja More,50.0,Male,HR,103940.0,Ahmednagar,Regular,16.645709,72.94632,63495.42,Poor
+1147,Sakshi Patil,50.0,Female,Data Analytics,116563.0,Nagpur,Premium,17.86356,73.314621,27305.27,Good
+1854,Aditya Patil,35.0,Male,Finance,35789.0,Ahmednagar,New,18.02582,77.989479,44483.52,Excellent
+1940,Sahil Deshmukh,40.0,Male,HR,86137.0,Pune,Premium,21.207888,75.541561,53782.88,Very Good
+1747,Sneha Pawar,35.0,Male,Operations,66081.0,Kolhapur,Regular,19.621798,80.054122,40340.04,Very Good
+1660,Nikhil Jadhav,60.0,Male,Finance,55549.0,Ahmednagar,Premium,20.981588,76.433138,60373.44,Average
+1349,Isha Kulkarni,42.0,Male,IT,80951.0,Kolhapur,Premium,20.549265,78.461691,34739.99,Excellent
+1464,Neha Deshmukh,29.0,Female,Data Analytics,80860.0,Thane,Premium,17.992733,76.427669,95602.39,Poor
+1326,Sakshi Chavan,18.0,Female,Sales,26818.0,Kolhapur,New,18.754883,75.190992,13801.19,Average
+1187,Sahil Joshi,44.0,Male,Marketing,15932.0,Aurangabad,Premium,17.03407,76.82915,10357.08,Good
+1124,Sahil Joshi,43.0,Male,Finance,81107.0,Mumbai,Premium,20.232168,76.288612,66430.39,Excellent
+1862,Sakshi Sharma,37.0,Male,Marketing,48202.0,Thane,Regular,18.905882,77.570218,62158.51,Very Good
+1609,Riya Patil,41.0,Male,IT,56533.0,Nashik,New,17.306667,80.324172,68833.25,Average
+1144,Neha Sharma,37.0,Female,Data Analytics,94098.0,Mumbai,New,18.610096,72.938311,14752.77,Poor
+1969,Sahil Joshi,51.0,Male,Marketing,111161.0,Aurangabad,Regular,19.202199,78.0088,85798.07,Poor
+1198,Pooja Patil,31.0,Female,Marketing,68588.0,Nashik,New,17.731733,76.975599,59434.86,Average
+1610,Kavya Shinde,50.0,Male,Data Analytics,100591.0,Pune,New,20.131046,77.830965,71627.69,Average
+1280,Kavya Pawar,59.0,Female,Data Analytics,52548.0,Kolhapur,Premium,16.921995,74.853462,26842.7,Very Good
+1294,Aditya Shinde,44.0,Male,Sales,40525.0,Nagpur,Regular,20.759154,75.604927,46305.21,Good
+1401,Aarav Shinde,53.0,Male,HR,24965.0,Nashik,Premium,17.062454,77.195641,89563.07,Excellent
+1123,Pooja Patil,50.0,Male,Sales,83512.0,Nagpur,New,17.70187,74.477229,68949.07,Good
+1184,Priya Sharma,19.0,Male,HR,107949.0,Nashik,New,20.219795,77.71364,57429.73,Average
+1203,Riya Sharma,51.0,Male,Operations,100403.0,Nashik,Regular,18.338696,74.11009,14695.68,Poor
+1439,Rohan Patil,22.0,Male,Finance,20539.0,Pune,Regular,18.76551,80.416761,30496.9,Average
+1247,Sakshi Deshmukh,48.0,Male,Data Analytics,67502.0,Nagpur,Regular,17.301717,74.467714,19423.31,Good
+1416,Pooja Joshi,50.0,Female,Sales,41170.0,Aurangabad,Regular,17.402844,76.298221,77161.13,Very Good
+1784,Sakshi Kulkarni,40.0,Female,Finance,68650.5,Aurangabad,New,16.526067,73.274965,31206.18,Very Good
+1868,Anjali Pawar,58.0,Female,Marketing,21827.0,Thane,New,20.668417,76.376289,8807.31,Average
+1915,Isha Joshi,19.0,Male,Operations,31492.0,Mumbai,New,18.957365,78.864324,97866.8,Poor
+1931,Isha Joshi,42.0,Female,Finance,109948.0,Mumbai,Premium,16.794569,74.827812,18815.79,Poor
+1896,Karan Chavan,43.0,Male,Finance,26728.0,Nashik,Premium,19.209172,74.446848,43594.88,Excellent
+1130,Akash More,39.0,Male,HR,38255.0,Kolhapur,Premium,19.669637,73.083287,13853.7,Very Good
+1638,Neha Jadhav,49.0,Male,Sales,42600.0,Mumbai,Premium,21.215273,75.040309,79969.01,Very Good
+1403,Kavya Kulkarni,30.0,Female,Marketing,38394.0,Ahmednagar,New,17.240269,72.757672,553.32,Good
+1895,Isha Joshi,29.0,Male,Data Analytics,116029.0,Pune,New,21.275842,76.825343,39996.02,Excellent
+1778,Sakshi Shinde,39.0,Female,Data Analytics,50669.0,Ahmednagar,New,19.037497,74.176204,57227.22,Very Good
+1736,Priya More,54.0,Male,IT,63974.0,Thane,New,20.867732,75.582665,71284.97,Excellent
+1922,Karan Jadhav,49.0,Male,Data Analytics,114181.0,Nashik,Premium,16.955125,79.781337,18022.51,Poor
+1220,Neha Shinde,37.0,Female,Data Analytics,88080.0,Pune,New,17.681909,77.610136,92419.29,Poor
+1642,Kavya Kulkarni,34.0,Male,Operations,27524.0,Ahmednagar,Premium,21.496306,75.819147,77889.51,Average
+1924,Sakshi More,58.0,Male,Marketing,72503.0,Aurangabad,New,19.208896,78.300225,27753.58,Excellent
+1760,Akash Chavan,37.0,Female,Marketing,104737.0,Nagpur,Regular,19.102349,79.779593,37462.07,Average
+1815,Karan Kulkarni,37.0,Female,Marketing,58286.0,Aurangabad,Regular,18.513769,78.584269,50411.18,Excellent
+1928,Sakshi More,60.0,Female,HR,105341.0,Ahmednagar,Regular,17.271137,75.995698,42262.33,Excellent
+1625,Akash Patil,34.0,Male,Operations,69262.0,Pune,Premium,19.762501,74.448366,33816.98,Poor
+1847,Nikhil Chavan,51.0,Male,Finance,102294.0,Kolhapur,Regular,18.372299,72.705443,35660.16,Good
+1768,Sahil Patil,42.0,Female,Operations,39641.0,Thane,Premium,20.951597,77.188638,16694.66,Excellent
+1387,Meera Chavan,52.0,Female,Marketing,69057.0,Mumbai,Premium,18.699948,72.740833,38345.09,Very Good
+1983,Priya Patil,48.0,Male,Finance,39886.0,Aurangabad,Regular,17.866515,74.300574,95532.89,Average
+1510,Amit More,36.0,Male,Sales,89895.0,Thane,Premium,20.564124,75.249262,88456.65,Excellent
+1268,Priya Joshi,40.0,Male,IT,49483.0,Mumbai,Regular,19.745903,79.561785,35652.51,Very Good
+1828,Isha Pawar,44.0,Male,Marketing,47778.0,Nashik,New,18.923822,76.387409,24291.51,Poor
+1442,Amit Jadhav,22.0,Male,Marketing,96352.0,Thane,New,19.013194,78.445142,53588.98,Excellent
+1497,Rohan Patil,46.0,Male,Finance,39105.0,Kolhapur,Regular,21.420931,73.469845,28136.77,Very Good
+1113,Isha More,26.0,Female,IT,93188.0,Pune,New,17.83968,74.075015,90509.64,Excellent
+1692,Riya Joshi,36.0,Female,Data Analytics,88922.0,Pune,Regular,20.346096,76.356006,55374.29,Very Good
+1233,Karan Shinde,54.0,Male,Marketing,67183.0,Kolhapur,Premium,18.085922,75.363093,28942.16,Average
+1878,Riya Sharma,43.0,Female,Data Analytics,119122.0,Mumbai,Premium,19.617947,75.578868,56299.64,Very Good
+1608,Amit Chavan,34.0,Female,Finance,56088.0,Ahmednagar,Regular,18.68115,78.001001,68599.54,Excellent
+1672,Rohan Kulkarni,47.0,Female,Sales,19607.0,Kolhapur,New,19.548279,76.236594,71634.64,Very Good
+1374,Aarav Patil,41.0,Female,Data Analytics,78172.0,Pune,Regular,21.013963,74.369786,61304.49,Very Good
+1992,Anjali Shinde,39.0,Female,Sales,57283.0,Nashik,Premium,19.170446,73.773546,41698.35,Average
+1851,Riya Sharma,26.0,Male,Operations,104318.0,Nagpur,Regular,20.418963,78.511518,98621.26,Poor
+1234,Karan Patil,52.0,Male,IT,111440.0,Mumbai,Premium,20.561239,76.480344,92994.11,Good
+1793,Neha Deshmukh,45.0,Female,Data Analytics,31389.0,Thane,Regular,17.669189,76.39177,48333.705,Very Good
+1677,Meera Sharma,60.0,Male,HR,76235.0,Ahmednagar,Premium,17.335231,74.924806,9181.4,Poor
+1318,Vikas More,30.0,Male,HR,68143.0,Pune,New,20.620444,74.536234,44215.99,Very Good
+1649,Aarav Sharma,28.0,Female,Operations,67037.0,Ahmednagar,Regular,20.534078,72.932592,11759.82,Average
+1411,Amit Jadhav,25.0,Female,Marketing,112800.0,Kolhapur,Premium,19.815688,75.627087,49382.99,Excellent
+1907,Akash Jadhav,41.0,Female,Data Analytics,22834.0,Aurangabad,Regular,17.529025,78.2534,14978.62,Poor
+1710,Priya Chavan,41.0,Male,Operations,54789.0,Nashik,New,21.259203,72.533444,15115.22,Good
+1359,Sahil Shinde,59.0,Male,Finance,105989.0,Kolhapur,New,19.013194,78.660609,8720.18,Good
+1259,Sakshi Patil,33.0,Female,Data Analytics,98345.0,Aurangabad,Premium,19.705494,75.457125,4714.42,Excellent
+1745,Sahil Deshmukh,20.0,Male,IT,111615.0,Mumbai,Regular,19.719397,73.683074,95131.77,Good
+1628,Pooja Deshmukh,55.0,Female,HR,68650.5,Ahmednagar,New,21.354708,76.489812,89365.2,Average
+1633,Neha Patil,39.0,Male,Finance,47983.0,Nagpur,Regular,18.914449,78.302467,27473.78,Poor
+1283,Pooja Jadhav,38.0,Male,IT,22531.0,Ahmednagar,Regular,18.3866,77.535673,39665.34,Good
+1377,Anjali Shinde,32.0,Female,Operations,23854.0,Pune,Premium,21.133584,76.249907,63076.34,Excellent
+1385,Sneha Pawar,53.0,Female,Operations,119878.0,Mumbai,Regular,21.114264,76.009446,20364.53,Very Good
+1225,Sakshi Joshi,49.0,Male,HR,87733.0,Nagpur,Regular,21.089633,78.646787,77172.55,Very Good
+1964,Sneha Pawar,18.0,Male,HR,15094.0,Kolhapur,Regular,18.729911,79.29302,67557.56,Very Good
+1823,Sakshi More,45.0,Male,HR,24356.0,Mumbai,Regular,21.2391,78.834292,62535.34,Good
+1473,Sahil More,47.0,Male,Operations,82922.0,Nashik,Premium,17.499356,75.628723,44055.62,Good
+1348,Sneha More,34.0,Male,IT,24487.0,Mumbai,Regular,20.04783,74.500189,13049.3,Good
+1506,Karan Joshi,31.0,Female,Operations,67506.0,Mumbai,Premium,19.053258,72.713743,63451.95,Poor
+1640,Riya Joshi,59.0,Female,Data Analytics,67041.0,Thane,Premium,17.673595,72.81686,86240.54,Average
+1998,Karan Shinde,48.0,Female,Finance,83576.0,Pune,New,21.494106,75.630902,92671.71,Very Good
+1798,Rahul Deshmukh,23.0,Female,IT,45514.0,Aurangabad,Regular,17.199857,74.107527,77618.49,Average
+1937,Isha More,43.0,Male,HR,72344.0,Pune,Premium,17.212303,77.082712,20261.23,Very Good
+1914,Unknown,53.0,Female,IT,29076.0,Aurangabad,Premium,19.444465,76.43567,79061.13,Good
+1620,Sahil Patil,20.0,Female,HR,62600.0,Thane,Premium,20.915867,72.669707,92507.87,Very Good
+1864,Vikas Pawar,22.0,Male,Finance,98692.0,Pune,Premium,18.761872,80.256781,44362.35,Excellent
+1812,Isha Sharma,24.0,Male,Sales,106348.0,Aurangabad,New,17.573922,72.737333,14515.83,Excellent
+1646,Pooja Shinde,47.0,Female,Finance,22055.0,Pune,Premium,17.373574,78.362985,79786.65,Poor
+1855,Isha Pawar,49.0,Male,Marketing,97465.0,Aurangabad,Premium,17.917411,79.458825,92454.0,Average
+1557,Akash More,44.0,Male,Finance,58864.0,Thane,Regular,17.441106,72.628308,19190.88,Very Good
+1968,Amit Deshmukh,50.0,Male,Marketing,64681.0,Thane,Regular,17.211835,76.519024,94360.71,Poor
+1578,Rohan Joshi,20.0,Female,Operations,117276.0,Thane,Regular,20.647254,73.347083,79343.84,Average
+1796,Karan Shinde,60.0,Female,IT,110303.0,Mumbai,Premium,20.575396,77.036737,50606.05,Good
+1086,Rohan Chavan,52.0,Female,Finance,110417.0,Thane,Regular,20.088534,72.51564,81973.35,Very Good
+1243,Aditya Joshi,40.0,Male,Operations,36206.0,Aurangabad,New,18.163611,74.25156,67839.03,Very Good
+1699,Aarav Chavan,51.0,Male,HR,60504.0,Aurangabad,Regular,20.075999,76.922817,69730.18,Good
+1160,Karan Patil,37.0,Female,Data Analytics,118488.0,Kolhapur,New,16.817908,77.461686,25126.02,Very Good
+1525,Aditya Patil,35.0,Male,Data Analytics,111802.0,Kolhapur,New,18.74974,74.733135,93932.18,Poor
+1036,Vikas Patil,43.0,Female,IT,82441.0,Nagpur,Regular,19.419835,75.594008,34179.34,Poor
+1541,Riya Shinde,44.0,Male,IT,47895.0,Nagpur,Regular,18.525458,76.036465,73116.28,Excellent
+1655,Rohan Patil,59.0,Female,Finance,96015.0,Kolhapur,Premium,21.468314,79.481646,76869.77,Good
+1899,Rahul Kulkarni,58.0,Female,IT,80525.0,Pune,Premium,19.108769,78.099272,34571.14,Poor
+1866,Sakshi Joshi,34.0,Male,Marketing,41047.0,Kolhapur,Premium,18.386528,77.923435,62650.88,Average
+1856,Aarav Deshmukh,27.0,Male,IT,68650.5,Mumbai,Premium,17.415386,76.619312,94013.03,Very Good
+1953,Anjali Kulkarni,28.0,Female,Marketing,87682.0,Mumbai,New,16.644532,73.352687,66574.26,Excellent
+1734,Meera Deshmukh,59.0,Female,Sales,15946.0,Nagpur,Regular,20.928914,75.445444,94850.08,Very Good
+1096,Pooja Patil,43.0,Male,Marketing,43752.0,Kolhapur,Regular,19.023198,76.464598,31772.46,Good
+1564,Aarav Shinde,31.0,Male,Data Analytics,60107.0,Kolhapur,Regular,19.192913,73.272826,14160.48,Good
+1241,Neha Shinde,36.0,Female,Operations,117643.0,Aurangabad,Regular,20.18471,74.092983,50031.62,Poor
+1743,Aarav Deshmukh,48.0,Male,Operations,36400.0,Pune,Regular,17.234309,72.726049,9647.68,Excellent
+1575,Rahul Jadhav,42.0,Male,Marketing,100082.0,Nashik,New,18.747581,75.660511,27131.82,Average
+1691,Amit Pawar,52.0,Male,Operations,98342.0,Nashik,New,21.348183,80.13006,83607.61,Average
+1461,Kavya Deshmukh,59.0,Male,Finance,77694.0,Kolhapur,Regular,19.73584,74.474721,27777.79,Poor
+1554,Amit Jadhav,21.0,Male,Operations,27622.0,Thane,Regular,17.45401,74.497598,88582.68,Good
+1887,Aditya Kulkarni,56.0,Male,HR,91162.0,Ahmednagar,Premium,17.328074,73.196719,35219.33,Very Good
+1207,Sneha More,47.0,Male,IT,85268.0,Nashik,Regular,16.674047,78.034728,64099.75,Average
+1393,Anjali Pawar,51.0,Male,IT,49517.0,Ahmednagar,Premium,18.835664,77.770785,6604.3,Excellent
+1795,Aditya More,55.0,Male,HR,72464.0,Aurangabad,Regular,19.834612,73.381906,89702.86,Poor
+1398,Priya Joshi,54.0,Female,Sales,103302.0,Nagpur,Premium,21.444093,78.602733,94328.38,Average
+1767,Karan Chavan,39.0,Male,Data Analytics,69120.0,Kolhapur,New,16.617109,79.593207,24333.23,Very Good
+1884,Nikhil Joshi,39.0,Female,Finance,46862.0,Kolhapur,Regular,18.715481,78.233325,22693.6,Excellent
+1218,Karan Sharma,35.0,Female,Operations,87365.0,Nagpur,New,19.926242,76.467445,52299.17,Poor
+1005,Rahul Shinde,31.0,Male,Finance,49513.0,Nagpur,Premium,20.764371,77.581359,10183.3,Poor
+1769,Kavya Kulkarni,26.0,Male,IT,23973.0,Nashik,Regular,19.199663,78.371467,11093.22,Very Good
+1643,Isha Joshi,49.0,Female,IT,23361.0,Nashik,Premium,18.293934,79.001684,15085.61,Good
+1906,Vikas Sharma,43.0,Female,Data Analytics,22871.0,Aurangabad,Premium,17.874813,74.742863,94879.1,Poor
+1613,Akash Kulkarni,24.0,Male,Marketing,68650.5,Pune,Regular,19.03818,79.796826,99081.42,Very Good
+1739,Amit More,20.0,Male,IT,88472.0,Aurangabad,Premium,18.220787,76.321804,30950.38,Very Good
+1547,Rohan Pawar,52.0,Male,Data Analytics,105510.0,Nagpur,Premium,19.583724,73.322346,81652.0,Average
+1726,Anjali Pawar,48.0,Male,Data Analytics,16197.0,Kolhapur,New,17.254761,73.798899,11571.03,Good
+1684,Isha Patil,52.0,Male,Marketing,85685.0,Aurangabad,Premium,18.991955,75.376655,11460.55,Average
+1099,Pooja Shinde,53.0,Female,Operations,33705.0,Thane,Regular,18.066765,78.269762,65437.73,Good
+1805,Anjali More,27.0,Female,Finance,70082.0,Nashik,Regular,18.771548,79.803771,68396.21,Very Good
+1728,Anjali Deshmukh,58.0,Male,Finance,71418.0,Kolhapur,Premium,21.388665,80.156775,64424.2,Good
+1574,Isha Chavan,35.0,Male,Operations,100179.0,Aurangabad,Premium,16.598139,79.974619,77126.7,Average
+1407,Rahul More,28.0,Female,HR,43647.0,Nagpur,Regular,20.674768,77.045527,28375.86,Good
+1503,Kavya Chavan,46.0,Female,Finance,113591.0,Ahmednagar,Premium,19.254972,73.818713,21392.25,Average
+1048,Kavya More,33.0,Female,IT,45191.0,Mumbai,Regular,19.939956,74.032093,99120.81,Average
+1033,Sahil Deshmukh,38.0,Male,Marketing,36706.0,Nagpur,Regular,17.14099,80.276312,94533.79,Poor
+1780,Sahil Shinde,57.0,Female,Marketing,96625.0,Pune,Regular,20.2828,78.092072,98656.15,Good
+1840,Rohan Jadhav,36.0,Female,IT,19392.0,Thane,New,20.761589,79.484619,89565.92,Poor
+1201,Rohan Pawar,60.0,Female,Operations,35287.0,Aurangabad,Premium,17.224558,80.312086,48333.705,Poor
+1135,Riya Joshi,56.0,Male,Finance,117743.0,Thane,Regular,19.934275,73.498611,42490.49,Average
+1028,Akash Patil,47.0,Male,Sales,94195.0,Aurangabad,New,19.882439,76.809195,68104.8,Poor
+1889,Isha Jadhav,37.0,Female,Operations,105538.0,Nagpur,Premium,19.650546,80.470438,53744.02,Very Good
+1231,Akash Deshmukh,36.0,Female,Operations,116475.0,Thane,Regular,17.301136,72.553803,57744.01,Very Good
+1490,Anjali Joshi,19.0,Male,HR,49452.0,Aurangabad,Premium,19.013194,77.833256,27217.21,Good
+1773,Rahul Jadhav,21.0,Male,HR,29464.0,Pune,Premium,18.613729,73.374193,19180.51,Excellent
+1379,Meera Joshi,48.0,Female,Operations,98055.0,Mumbai,Premium,18.678877,75.225277,12485.89,Excellent
+1289,Rahul More,54.0,Female,Sales,16403.0,Mumbai,Regular,19.560016,78.318388,93573.73,Excellent
+1419,Amit More,47.0,Male,Data Analytics,46726.0,Mumbai,Premium,18.990554,77.612026,81098.51,Average
+1675,Riya Patil,57.0,Male,Finance,57624.0,Mumbai,Premium,19.312364,75.892134,81223.56,Excellent
+1392,Sneha Pawar,23.0,Male,Operations,106857.0,Aurangabad,Regular,17.317775,76.498402,42894.55,Poor
+1593,Isha Patil,48.0,Male,IT,97799.0,Nagpur,Premium,21.176405,80.423794,27111.94,Poor
+1499,Karan Joshi,21.0,Male,Data Analytics,70567.0,Mumbai,New,18.002043,78.543175,87401.59,Excellent
+1139,Amit Joshi,57.0,Female,Sales,30403.0,Kolhapur,Premium,16.638521,79.62067,16750.28,Poor
+1063,Sahil Joshi,49.0,Male,Operations,46938.0,Kolhapur,New,18.112107,74.71878,98741.26,Excellent
+1472,Aarav Joshi,37.0,Female,Sales,106520.0,Nagpur,Premium,18.337284,78.838774,7961.06,Average
+1648,Anjali Kulkarni,40.0,Male,HR,116047.0,Ahmednagar,Regular,19.017394,74.146539,81557.65,Excellent
+1129,Kavya Kulkarni,26.0,Female,Data Analytics,27622.0,Nagpur,Premium,21.055689,74.393949,21913.69,Poor
+1987,Pooja Deshmukh,23.0,Female,Operations,115366.0,Ahmednagar,Premium,20.712193,79.35423,31043.06,Average
+1521,Rohan More,51.0,Male,Marketing,64923.0,Mumbai,New,20.021893,77.756181,25970.73,Good
+1839,Akash Shinde,18.0,Male,Operations,111681.0,Nagpur,Regular,17.09383,80.30244,79839.61,Very Good
+1973,Kavya Joshi,32.0,Female,Operations,68650.5,Thane,Regular,21.306761,77.548617,4130.35,Excellent
+1065,Aarav Patil,47.0,Female,Finance,31762.0,Thane,New,18.941793,73.863817,69525.72,Poor
+1813,Isha Jadhav,23.0,Female,Operations,118733.0,Mumbai,Regular,16.890363,74.378241,71996.18,Excellent
+1015,Neha More,59.0,Female,HR,100634.0,Thane,New,18.445402,73.569806,48502.95,Good
+1157,Pooja Jadhav,25.0,Female,Operations,71224.0,Pune,New,20.982527,76.12729,78884.51,Average
+1041,Meera Pawar,24.0,Female,IT,39498.0,Mumbai,Premium,21.459728,75.463845,12320.85,Poor
+1493,Pooja Kulkarni,22.0,Male,Data Analytics,76780.0,Nashik,Premium,18.841096,79.717878,53589.8,Excellent
+1380,Isha More,27.0,Male,Marketing,118370.0,Kolhapur,New,17.324919,73.187007,40427.67,Very Good
+1188,Riya Joshi,27.0,Female,Sales,90757.0,Ahmednagar,Regular,17.570543,73.664997,5272.35,Average
+1764,Amit Shinde,54.0,Female,Sales,112376.0,Ahmednagar,Premium,18.061262,78.034694,36588.81,Very Good
+1792,Nikhil Shinde,42.0,Female,Marketing,50283.0,Kolhapur,New,20.722479,73.574656,13386.93,Good
+1053,Amit More,42.0,Female,HR,78113.0,Ahmednagar,Regular,16.686888,80.340953,38519.04,Poor
+1879,Sakshi Deshmukh,39.0,Female,HR,51188.0,Thane,Premium,18.436176,77.35739,15878.94,Excellent
+1338,Akash Patil,23.0,Male,Finance,74606.0,Nashik,New,19.48598,76.514119,13179.68,Average
+1749,Aditya Joshi,54.0,Male,IT,43913.0,Pune,New,18.710719,74.479318,39532.95,Good
+1720,Anjali Shinde,20.0,Female,HR,68650.5,Aurangabad,Premium,18.508254,80.400177,94902.19,Poor
+1725,Aarav Pawar,53.0,Male,Marketing,54270.0,Thane,New,21.112594,79.957036,1814.34,Very Good
+1296,Aditya Kulkarni,20.0,Female,IT,117755.0,Thane,Premium,19.59002,78.50909,11162.82,Poor
+1702,Rohan Sharma,30.0,Male,Operations,44770.0,Nagpur,Premium,17.727256,74.946778,69764.19,Good
+1252,Anjali Joshi,53.0,Male,Operations,95481.0,Pune,Regular,19.238639,79.151566,34833.53,Excellent
+1727,Rohan Jadhav,21.0,Male,HR,115384.0,Kolhapur,New,19.372786,78.603607,6470.08,Poor
+1462,Riya Deshmukh,40.0,Male,Operations,85879.0,Thane,Premium,21.272162,75.131132,96764.95,Excellent
+1456,Neha Kulkarni,42.0,Male,HR,31809.0,Nashik,New,18.494586,74.113622,48540.65,Average
+1816,Akash Pawar,46.0,Male,HR,25515.0,Aurangabad,New,19.294842,72.576053,99231.75,Very Good
+1863,Rahul Sharma,48.0,Female,Operations,78075.0,Nashik,Regular,18.048509,79.487476,68218.19,Good
+1270,Sahil Chavan,40.0,Female,HR,63606.0,Mumbai,Regular,19.470081,74.017129,49803.03,Excellent
+1202,Neha Chavan,48.0,Female,Data Analytics,70846.0,Mumbai,Regular,18.876109,77.624438,65927.51,Poor
+1162,Sakshi Shinde,19.0,Male,HR,64969.0,Thane,Premium,20.983866,77.707371,53381.28,Good
+1556,Sahil Jadhav,44.0,Female,Operations,112595.0,Aurangabad,New,19.980162,74.099886,68893.0,Good
+1730,Kavya More,28.0,Female,Sales,53393.0,Nagpur,New,20.495354,78.512619,17771.23,Very Good
+1402,Anjali Kulkarni,50.0,Female,Operations,87686.0,Ahmednagar,New,20.09882,77.040619,18584.29,Good
+1703,Rahul Joshi,57.0,Female,Operations,26738.0,Nagpur,Premium,20.266031,74.765806,42758.52,Average
+1477,Sahil Sharma,42.0,Male,Finance,16103.0,Pune,New,19.501704,73.936625,60918.23,Excellent
+1822,Sakshi Chavan,29.0,Male,Finance,66435.0,Thane,Premium,19.945089,74.188547,29438.74,Average
+1772,Isha Joshi,40.0,Male,Marketing,52957.0,Thane,New,18.01971,79.455344,91013.86,Excellent
+1106,Kavya Pawar,50.0,Female,IT,81952.0,Kolhapur,Premium,19.63922,79.540788,96644.48,Very Good
+1566,Kavya Jadhav,59.0,Female,HR,68970.0,Nashik,Premium,20.348606,77.81287,1672.96,Good
+1390,Amit Joshi,33.0,Female,IT,85208.0,Kolhapur,New,17.415707,74.944575,98022.37,Average
+1002,Vikas Pawar,54.0,Female,HR,98042.0,Mumbai,Premium,20.900628,78.916452,92344.85,Very Good
+1946,Pooja Patil,58.0,Male,HR,86253.0,Nashik,Premium,19.043106,75.889588,82390.06,Good
+1993,Meera Patil,47.0,Male,Sales,68713.0,Nagpur,New,16.849676,72.672527,35497.03,Good
+1562,Anjali Sharma,33.0,Male,Marketing,88071.0,Nashik,Regular,20.710449,73.005372,40549.18,Excellent
+1081,Anjali Pawar,49.0,Male,Sales,93558.0,Aurangabad,New,17.986601,80.258486,78455.72,Excellent
+1206,Vikas Chavan,40.0,Male,Sales,49249.0,Aurangabad,Premium,21.026147,76.3058,91884.94,Excellent
+1035,Isha Pawar,40.0,Female,Marketing,25104.0,Pune,New,20.547767,77.310487,51785.8,Excellent
+1776,Isha Jadhav,32.0,Male,Sales,95967.0,Mumbai,Premium,20.707917,79.013824,24413.35,Good
+1509,Akash Pawar,50.0,Male,Data Analytics,38578.0,Ahmednagar,Regular,20.10155,76.195232,94669.57,Good
+1428,Aarav More,37.0,Female,HR,117097.0,Pune,New,18.117692,79.790762,63141.08,Poor
+1455,Amit Sharma,42.0,Male,Operations,90584.0,Nagpur,New,20.354387,76.171651,43894.51,Average
+1367,Vikas Joshi,28.0,Male,Sales,59520.0,Ahmednagar,New,18.066348,77.732728,70245.1,Average
+1092,Anjali More,41.0,Male,Sales,94498.0,Nagpur,Regular,18.635529,79.254732,86269.34,Excellent
+1340,Sneha Jadhav,60.0,Male,Data Analytics,90354.0,Nashik,New,19.285,73.125272,78143.58,Poor
+1898,Neha Chavan,36.0,Female,Marketing,35669.0,Pune,New,21.286464,76.480344,6914.92,Good
+1565,Priya Shinde,39.0,Male,Operations,17599.0,Ahmednagar,New,16.930468,79.183081,75169.2,Good
+1346,Karan Sharma,33.0,Male,Finance,28954.0,Aurangabad,Premium,19.853958,75.170063,95789.02,Excellent
+1777,Rahul Patil,22.0,Female,Data Analytics,74345.0,Aurangabad,Regular,17.798782,74.652171,8961.42,Poor
+1242,Amit Jadhav,23.0,Female,Operations,106660.0,Nashik,New,21.132486,74.772807,68669.63,Average
+1014,Vikas Sharma,36.0,Female,Operations,92028.0,Nashik,New,18.062298,79.812146,44467.43,Good
+1316,Sahil Deshmukh,47.0,Male,IT,102773.0,Nagpur,Regular,17.53303,73.757675,98942.24,Good
+1601,Priya Sharma,36.0,Female,Data Analytics,89925.0,Pune,Premium,17.839244,77.546991,620.44,Excellent
+1388,Akash Pawar,60.0,Female,HR,61281.0,Mumbai,Premium,17.4446,73.611602,52734.63,Poor
+1274,Sakshi Joshi,53.0,Female,Sales,109960.0,Pune,Premium,20.867529,75.936321,68066.79,Average
+1167,Rahul Pawar,55.0,Male,Finance,106318.0,Aurangabad,New,20.713751,73.364053,90969.92,Very Good
+1841,Priya Kulkarni,44.0,Female,Finance,41106.0,Nashik,Regular,17.051681,78.950162,50141.77,Good
+1647,Priya Joshi,28.0,Female,Sales,18455.0,Thane,Regular,20.797308,75.241827,97645.76,Good
+1819,Sneha Joshi,24.0,Female,HR,22345.0,Mumbai,Regular,19.421519,77.822578,76979.3,Poor
+1485,Aarav Joshi,25.0,Female,Sales,62395.0,Nashik,Regular,21.366359,72.849316,50629.87,Very Good
+1991,Vikas Chavan,37.0,Female,Finance,52110.0,Mumbai,Premium,17.307082,79.799011,99905.29,Excellent
+1505,Kavya Deshmukh,52.0,Female,Data Analytics,62851.0,Nashik,Premium,19.067073,72.857081,65040.23,Very Good
+1832,Pooja Jadhav,40.0,Male,Data Analytics,115682.0,Mumbai,New,19.145706,77.95488,56906.64,Poor
+1244,Aarav Jadhav,46.0,Male,Sales,28143.0,Kolhapur,regular,18.61183,74.595991,53474.73,Very Good
+1567,Pooja Shinde,23.0,Female,Finance,30890.0,Aurangabad,New,17.240828,78.292092,10423.13,Average
+1876,Amit Pawar,37.0,Male,Finance,16974.0,Nagpur,New,16.946575,78.095998,79163.77,Poor
+1563,Aditya Jadhav,34.0,Female,HR,48779.0,Ahmednagar,Regular,20.790947,80.169962,72568.54,Excellent
+1963,Nikhil Pawar,24.0,Female,Marketing,74517.0,Nashik,New,19.341228,78.476479,79305.67,Very Good
+1687,Kavya Pawar,18.0,Female,Operations,93326.0,Pune,New,18.318685,75.881578,85008.25,Average
+1958,Karan Deshmukh,59.0,Male,Data Analytics,73901.0,Ahmednagar,Regular,19.430863,74.874588,1911.58,Very Good
+1190,Rahul Chavan,31.0,Male,Marketing,30444.0,Nashik,New,18.541878,77.326636,75311.36,Excellent
+1783,Akash Deshmukh,38.0,Female,HR,57027.0,Pune,Regular,19.362176,76.433786,9774.49,Excellent
+1700,Rohan Shinde,27.0,Male,Marketing,78131.0,Kolhapur,Regular,18.575043,73.905595,14736.12,Average
+1476,Sakshi Kulkarni,52.0,Male,Marketing,105336.0,Ahmednagar,Regular,17.842397,75.820422,39329.57,Poor
+1682,Priya Jadhav,19.0,Female,HR,32709.0,Ahmednagar,New,20.040817,76.349366,47655.67,Poor
+1511,Pooja More,32.0,Female,IT,32188.0,Ahmednagar,Regular,18.277288,75.694735,26771.8,Average
+1059,Unknown,54.0,Female,Finance,36134.0,Kolhapur,New,18.8485,72.557083,64320.23,Very Good
+1475,Nikhil Deshmukh,45.0,Female,Data Analytics,56373.0,Nashik,New,18.440448,79.298751,56468.61,Poor
+1561,Amit Jadhav,42.0,Male,Operations,88446.0,Nagpur,Premium,17.708901,77.939676,64689.32,Very Good
+1857,Sneha Deshmukh,22.0,Male,HR,20529.0,Kolhapur,New,20.198302,77.781827,97182.22,Very Good
+1748,Riya Shinde,52.0,Male,Marketing,64592.0,Mumbai,Regular,19.590937,73.678939,6071.68,Poor
+1253,Sakshi Deshmukh,35.0,Male,HR,106364.0,Kolhapur,New,18.133842,73.597948,99425.08,Average
+1022,Vikas Sharma,22.0,Female,IT,68194.0,Ahmednagar,Regular,19.311277,76.480344,85686.06,Good
+1314,Vikas More,26.0,Male,Finance,67354.0,Kolhapur,New,18.410368,75.900183,53874.52,Excellent
+1460,Kavya Patil,26.0,Female,Operations,70466.0,Aurangabad,New,18.511981,77.338789,17110.05,Average
+1161,Aarav Kulkarni,58.0,Male,Finance,115751.0,Thane,Premium,21.275442,73.310223,27377.46,Very Good
+1277,Kavya Kulkarni,59.0,Female,IT,95473.0,Mumbai,Regular,19.465102,78.604659,85851.71,Very Good
+1956,Sahil Chavan,20.0,Female,HR,84617.0,Nashik,Premium,16.593114,75.02741,82610.88,Excellent
+1192,Isha Shinde,50.0,Male,Sales,15942.0,Nagpur,Regular,16.779627,80.262168,80705.46,Excellent
+1386,Karan Patil,48.0,Female,Marketing,56383.0,Mumbai,Premium,19.683261,79.323553,86502.84,Excellent
+1806,Rohan Shinde,42.0,Female,HR,55838.0,Aurangabad,Premium,17.232766,73.373564,8335.91,Poor
+1414,Riya Shinde,49.0,Male,Marketing,80404.0,Nashik,Regular,16.520629,73.009674,67060.28,Average
+1492,Kavya Kulkarni,31.0,Female,Data Analytics,50311.0,Thane,Regular,16.919851,78.312302,22780.98,Good
+1344,Riya Deshmukh,48.0,Male,Marketing,68363.0,Kolhapur,New,18.271508,75.381895,82651.11,Good
+1770,Anjali Jadhav,23.0,Male,Sales,38908.0,Nashik,Premium,17.793451,78.519698,21585.04,Poor
+1309,Aditya Shinde,47.0,Male,HR,15037.0,Nagpur,New,17.515727,74.157597,25388.41,Good
+1662,Sakshi More,18.0,Male,Operations,47426.0,Kolhapur,Premium,20.868478,72.916855,14253.02,Average
+1131,Priya Chavan,48.0,Female,Data Analytics,77373.0,Aurangabad,Regular,20.729835,77.299718,55431.03,Good
+1664,Meera Pawar,26.0,Male,IT,52247.0,Nagpur,New,17.02071,80.006196,92199.69,Very Good
+1872,Sahil Patil,30.0,Female,Finance,45928.0,Aurangabad,Premium,20.308394,80.012678,99129.19,Average
+1100,Pooja Sharma,30.0,Female,Sales,119151.0,Ahmednagar,New,18.571571,72.875717,9238.18,Very Good
+1373,Kavya Kulkarni,36.0,Male,IT,18584.0,Pune,New,18.65043,74.179,73180.44,Excellent
+1088,Neha Jadhav,24.0,Female,Marketing,52152.0,Mumbai,Regular,19.459323,77.884798,75474.07,Very Good
+1459,Amit More,52.0,Male,Operations,119761.0,Ahmednagar,Premium,18.442515,79.096661,79193.07,Good
+1331,Isha Chavan,29.0,Female,Sales,91406.0,Nashik,Premium,18.844408,74.684156,94863.4,Good
+1215,Rahul Jadhav,48.0,Male,IT,113955.0,Nashik,Premium,19.694745,73.338783,47132.25,Average
+1467,Meera Sharma,51.0,Female,Sales,104959.0,Ahmednagar,Premium,21.108499,73.228821,19424.0,Very Good
+1122,Vikas Kulkarni,56.0,Female,HR,41522.0,Thane,Regular,18.812433,79.224061,51303.74,Average
+1615,Isha Patil,38.0,Female,HR,99494.0,Kolhapur,Premium,19.92487,76.588209,95668.42,Average
+1021,Isha Shinde,47.0,Female,HR,82681.0,Pune,New,18.849092,76.946325,36541.46,Very Good
+1701,Aditya Patil,33.0,Female,Data Analytics,85735.0,Ahmednagar,Premium,19.647202,75.543602,73441.61,Good
+1072,Nikhil Patil,50.0,Male,IT,20136.0,Nashik,Premium,17.997604,78.467788,12961.03,Good
+1107,Meera Chavan,46.0,Male,IT,49671.0,Pune,Regular,19.081121,78.961383,17574.52,Poor
+1271,Sahil Joshi,24.0,Male,Marketing,25490.0,Mumbai,Premium,18.551581,76.760438,17463.15,Very Good
+1861,Kavya Kulkarni,44.0,Male,Finance,31009.0,Kolhapur,New,16.723412,75.077469,41198.81,Poor
+1436,Riya Patil,20.0,Male,Operations,15868.0,Ahmednagar,Regular,18.147135,75.114177,10314.42,Average
+1103,Priya Deshmukh,36.0,Female,IT,38839.0,Pune,Premium,19.857801,75.029936,8918.73,Very Good
