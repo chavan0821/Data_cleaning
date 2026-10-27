@@ -125,7 +125,7 @@ If you created the dashboard in Excel rather than Power BI, include the Excel wo
 5. Run `EDA_analysis.ipynb` using the cleaned dataset.
 6. Open the `.pbix` file in Power BI Desktop, or open the Excel dashboard workbook if Excel was used.
 
- 12. Conclusion
+## 12. Conclusion
 This project demonstrates an end-to-end analytics workflow: understanding and cleaning data, validating data quality, exploring customer and purchase patterns, and presenting results in a dashboard. The analysis can support customer segmentation, marketing planning, and department-level decision-making.
 
 ## 13. Author
